@@ -11,6 +11,9 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
+  build: {
+    outDir: fileURLToPath(new URL("../backend/vue-dist", import.meta.url)),
+  },
   server: {
     fs: {
       // Allowing serving files from outside root

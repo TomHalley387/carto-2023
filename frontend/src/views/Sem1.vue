@@ -97,7 +97,7 @@ ul::-webkit-scrollbar-track {
           <ul>
             <li v-for="img in project.images" :key="img.path">
               <img
-                :src="'http://localhost:4000/' + img.path"
+                :src="'http://localhost:4499/concepts/' + img.path"
                 :alt="'Image for ' + studentName + ' - ' + project.conceptSlug"
                 loading="lazy"
               />
@@ -135,7 +135,7 @@ export default {
               .map((project) => ({
                 ...project,
                 augmentedImages: project.images.map((img) => ({
-                  path: "http://localhost:4000/concepts/" + img.path,
+                  path: img.path, //no editable here...
                   ...img,
                   ratio: img.ratio || "1",
                 })),
