@@ -1,8 +1,11 @@
 {
-  "name": "myproject",
+  "name": "exole-mtl-cartographie",
   "version": "1.0.0",
-  "description": "A sample project",
+  "description": "Un projet du collectif école de MTL",
+  "url": "TBD",
+  "git": "https://github.com/ecole-mtl/carto-2023",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +14,11 @@
     "updateFrontEndData": "node scripts/updateFrontEndData.mjs"
   },
   "keywords": [
-    "sample",
-    "project"
+    "ecole",
+    "mtl", "uqam"
   ],
-  "author": "Your Name",
-  "license": "ISC",
+  "author": "Code: Félix M, Images: Collectif école de MTL",
+  "license": "c",
   "dependencies": {
     "@xenova/transformers": "^2.6.0",
     "express": "^4.17.1",
