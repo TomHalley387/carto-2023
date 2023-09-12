@@ -4,8 +4,10 @@ import fetch, { Headers } from "node-fetch";
 import fs from "fs";
 import path from "path";
 import _ from "lodash";
+import csv from "csv-parser"; // You may need to install the csv-parser package using npm
 
 import { fileURLToPath } from "url";
+import slugify from "slugify";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -152,17 +154,55 @@ function scanImages(dir) {
   return allImages;
 }
 
-const allImages = scanImages(path.join(__dirname, "../concepts"));
-//const allImages = scanImages(path.join(import.meta.url, "../../concepts"));
-clipImages(allImages);
+// CLEIP ALL TAGS
 
-clipByUrl(
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/362px-Cat_August_2010-4.jpg"
-);
+async function encodeTags() {
+  const tagsPath = path.join(projectRoot, "data/tags.csv");
+  const outputDir = path.join(projectRoot, "data", "tags");
 
-clipByUrl(
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg/1024px-Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg"
-);
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+
+  const tagsStream = fs.createReadStream(tagsPath).pipe(csv());
+
+  for await (const record of tagsStream) {
+    console.log(record);
+    const text = record[Object.keys(record)[0]]; // Assuming one column, get the value of the first column
+    console.log(text, 9797987);
+    const tokens = await clipByText(text); //adaTokenizer.encode(text); // Encode the text
+
+    var slug = slugify(text, {
+      replacement: "-", // replace spaces with replacement character, defaults to `-`
+      remove: /[*+~.()'"!:@]/g, // remove characters that match regex, defaults to `undefined`
+      lower: true, // convert to lower case, defaults to `false`
+    });
+    //replace slashes
+    slug = slug.replace(/\//g, "-");
+
+    const savePath = path.join(outputDir, `${slug}.txt`); // Use the same filename logic as before
+    fs.writeFileSync(savePath, JSON.stringify(tokens)); // Save encoded tokens to the output path
+  }
+}
+
+// Call the function to execute the logic
+
+async function start() {
+  await encodeTags();
+
+  const allImages = scanImages(path.join(__dirname, "../concepts"));
+  //const allImages = scanImages(path.join(import.meta.url, "../../concepts"));
+  clipImages(allImages);
+
+  clipByUrl(
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/362px-Cat_August_2010-4.jpg"
+  );
+
+  clipByUrl(
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg/1024px-Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg"
+  );
+  clipByText("cat");
+}
 
 async function clipByText(text) {
   console.log("clip bu yxttx.");
@@ -177,9 +217,9 @@ async function clipByText(text) {
   const { text_embeds } = await text_model(text_inputs);
   const query_embedding = text_embeds.tolist()[0];
   console.log(query_embedding.length, "clipByText:", text);
+  return query_embedding;
 }
 
-clipByText("cat");
 // Allocate a pipeline for sentiment-analysis
 let sentimentsPipe = await pipeline("sentiment-analysis");
 
@@ -193,7 +233,7 @@ console.log(sentimentOut, dummy);
 TODO: ADA2
 
 
-*/
+
 
 const adaTokenizer = await AutoTokenizer.from_pretrained(
   "Xenova/text-embedding-ada-002"
@@ -201,3 +241,6 @@ const adaTokenizer = await AutoTokenizer.from_pretrained(
 const tokens = adaTokenizer.encode("hello world"); // [15339, 1917]
 //Please note that this is only the tokenizer for the model, and does not contain any model weights, meaning it cannot be used for generating embeddings.
 //The main purpose of this repo was to be able to count the number of tokens that will be sent to the OpenAI API.
+*/
+
+start();
