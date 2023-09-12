@@ -82,7 +82,7 @@ async function generateConceptsJson(conceptsPath) {
 async function updateFrontEndData() {
   const conceptsPath = path.join(__dirname, "../concepts");
   const data = await generateConceptsJson(conceptsPath);
-  const outputFilePath = path.join(__dirname, "../data/frontEndData.json");
+  const outputFilePath = path.join(__dirname, "../frontend/frontEndData.json");
   fs.writeFileSync(outputFilePath, JSON.stringify(data, null, 4));
   console.log("Front end data updated!");
 }
