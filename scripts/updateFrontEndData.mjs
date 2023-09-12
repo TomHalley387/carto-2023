@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import _ from "lodash";
 import { fileURLToPath } from "url";
 import { promisify } from "util";
 import sharp from "sharp"; // npm install sharp - image processing library
@@ -43,28 +44,34 @@ async function scanImages(dir) {
 }
 
 async function generateConceptsJson(conceptsPath) {
-  const projectRoot = path.resolve(__dirname, "..");
   const dirs = await readdirAsync(conceptsPath);
   const result = [];
 
-  for (const dir of dirs) {
-    const dirPath = path.join(conceptsPath, dir);
-    const stat = await statAsync(dirPath);
+  for (const user of dirs) {
+    const userPath = path.join(conceptsPath, user);
+    const stat = await statAsync(userPath);
     if (stat.isDirectory()) {
-      const imagesPath = await scanImages(dirPath);
-      const imagesDetails = [];
-      for (const imagePath of imagesPath) {
-        const dimensions = await getImageDimensions(imagePath);
-        imagesDetails.push({
-          path: path.relative(projectRoot, imagePath),
-          ...dimensions,
-        });
+      const conceptDirs = await readdirAsync(userPath);
+      for (const conceptSlug of conceptDirs) {
+        const conceptPath = path.join(userPath, conceptSlug);
+        const conceptStat = await statAsync(conceptPath);
+        if (conceptStat.isDirectory()) {
+          const imagesPath = await scanImages(conceptPath);
+          const imagesDetails = [];
+          for (const imagePath of imagesPath) {
+            const dimensions = await getImageDimensions(imagePath);
+            imagesDetails.push({
+              path: path.relative(conceptsPath, imagePath),
+              ...dimensions,
+            });
+          }
+          result.push({
+            user: user,
+            conceptSlug: conceptSlug,
+            images: imagesDetails,
+          });
+        }
       }
-      result.push({
-        name: dir,
-        path: path.relative(projectRoot, dirPath),
-        images: imagesDetails,
-      });
     }
   }
 
