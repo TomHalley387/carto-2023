@@ -11,14 +11,20 @@ div {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 55px;
+  font-weight: 900;
   color: #ccc;
+  display: inline-block;
+
+  margin-top: 2em;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 22px;
   color: #ccc;
   margin-top: 10px;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
 }
 
 /* Styling for the images swimlane */
@@ -78,14 +84,7 @@ ul::-webkit-scrollbar-track {
         :key="studentName"
       >
         <!-- Display the student name in a H1 tag inside a box -->
-        <h1
-          style="
-            display: inline-block;
-            padding: 10px;
-            border: 2px solid #333;
-            margin-top: 20px;
-          "
-        >
+        <h1 style="">
           {{ studentName }}
         </h1>
 
