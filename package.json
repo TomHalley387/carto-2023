@@ -19,7 +19,7 @@
 
     "buildFront":"cd frontend && npm run build",
     "commitFront":"git add . && git commit -m \"$(date)\"",
-    "prodDeps": "  cd backend && npm install  --only=prod",
+    "prodDeps": "  cd backend && npm install --omit=dev --only=prod",
 
 "push-vercel": " git push gitlab-felix main ", 
 "push": "git push dokku main:master",

@@ -16,7 +16,7 @@ COPY ./data ./data
 
 # Copy your backend folder and install only the production dependencies
 COPY ./backend ./backend
-RUN cd backend && npm install --only=prod
+RUN cd backend && npm install --only=prod --omit=dev
 #CMD [ "npm", "run", "prodDeps" ]
 # If you are building your code for production
 # Run 'npm run buildFront' inside the Docker container
