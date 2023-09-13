@@ -19,7 +19,7 @@
 
     "buildFront":"cd frontend && npm run build",
     "commitFront":"git add . && git commit -m \"$(date)\"",
-    "prodDeps": "npm i && cd backend && npm i",
+    "prodDeps": "  cd backend && npm i",
 
 "push": " git push gitlab-felix main ", 
 "deploy": "npm run buildFront && npm run commitFront && npm run push"
