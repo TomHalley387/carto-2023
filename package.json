@@ -21,8 +21,12 @@
     "commitFront":"git add . && git commit -m \"$(date)\"",
     "prodDeps": "  cd backend && npm i",
 
-"push": " git push gitlab-felix main ", 
+"push-vercel": " git push gitlab-felix main ", 
+"push": "git push dokku main:master",
 "deploy": "npm run buildFront && npm run commitFront && npm run push"
+  },
+  "engines": {
+    "node": "18.x"
   },
   "keywords": [
     "ecole",

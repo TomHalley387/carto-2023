@@ -20,7 +20,7 @@ import { pipeline } from "@xenova/transformers";
 
 var dummy = "cats are pretty, i guess"; // "I love transformers!";
 
-const RERUN_ALL_CLIP = true;
+const RERUN_ALL_CLIP = false;
 const CLIP_MODEL = "Xenova/clip-vit-large-patch14"; // "Xenova/clip-vit-base-patch16"; // "openai/clip-vit-base-patch32";
 
 import {
@@ -188,11 +188,11 @@ async function encodeTags() {
 // Call the function to execute the logic
 
 async function start() {
-  await encodeTags();
-
   const allImages = scanImages(path.join(__dirname, "../concepts"));
   //const allImages = scanImages(path.join(import.meta.url, "../../concepts"));
   clipImages(allImages);
+
+  await encodeTags();
 
   clipByUrl(
     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/362px-Cat_August_2010-4.jpg"

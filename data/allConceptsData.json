@@ -846,12 +846,134 @@
     {
         "user": "SantiagoB",
         "conceptSlug": "histoires-humaines",
-        "images": []
+        "images": [
+            {
+                "path": "SantiagoB/histoires-humaines/BreackDance.ori.jpg",
+                "width": 4830,
+                "height": 3170,
+                "ratio": 1.523659305993691
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Chasse_Balcon.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Chilling.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Danser.ori.jpg",
+                "width": 4764,
+                "height": 3227,
+                "ratio": 1.4762937713046174
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Fermeture_de_caisse.ori.jpg",
+                "width": 5028,
+                "height": 3352,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Mariage_1.ori.jpg",
+                "width": 5795,
+                "height": 3260,
+                "ratio": 1.7776073619631902
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Mariage_2.ori.jpg",
+                "width": 3848,
+                "height": 5564,
+                "ratio": 0.6915887850467289
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Spectacle_Urbain.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Vacances.ori.jpg",
+                "width": 4473,
+                "height": 3008,
+                "ratio": 1.487034574468085
+            },
+            {
+                "path": "SantiagoB/histoires-humaines/Vente_de_limonade.ori.jpg",
+                "width": 4671,
+                "height": 3271,
+                "ratio": 1.4280036686028736
+            }
+        ]
     },
     {
         "user": "SantiagoB",
         "conceptSlug": "portrait-de-rue",
-        "images": []
+        "images": [
+            {
+                "path": "SantiagoB/portrait-de-rue/Bonaventure.ori.jpg",
+                "width": 5028,
+                "height": 3352,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/Dancing_Queen.ori.jpg",
+                "width": 3373,
+                "height": 5059,
+                "ratio": 0.6667325558410753
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/Fin_de_shift.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/Happy_Musician.ori.jpg",
+                "width": 3456,
+                "height": 5184,
+                "ratio": 0.6666666666666666
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/Manifestation.ori.jpg",
+                "width": 4000,
+                "height": 6000,
+                "ratio": 0.6666666666666666
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/New_Menu.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/On_the_ground.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/SummerTime.ori.jpg",
+                "width": 4741,
+                "height": 3161,
+                "ratio": 1.499841822208162
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/TamTams.ori.jpg",
+                "width": 2048,
+                "height": 1366,
+                "ratio": 1.499267935578331
+            },
+            {
+                "path": "SantiagoB/portrait-de-rue/Waiting_the_bus.ori.jpg",
+                "width": 4359,
+                "height": 2912,
+                "ratio": 1.4969093406593406
+            }
+        ]
     },
     {
         "user": "SantiagoB",

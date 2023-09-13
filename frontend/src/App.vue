@@ -26,7 +26,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 
       <!-- Navigation below the title -->
       <nav>
-        <RouterLink to="/">sem1</RouterLink>
+        <RouterLink to="/">concepts par membres - sem1</RouterLink>
         <!-- 
         <RouterLink to="/demo">demo</RouterLink>
         <RouterLink to="/about">About</RouterLink>

@@ -29,7 +29,7 @@ h3 {
 
 /* Styling for the images swimlane */
 ul {
-  height: 300px; /* Adjust based on desired fixed height */
+  height: 220px; /* Adjust based on desired fixed height */
 
   display: flex;
   overflow-x: auto; /* Enables horizontal scrolling within the div */
