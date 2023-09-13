@@ -10,7 +10,7 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 
 # If you have common parts in the project root
-COPY ./common ./common
+#COPY ./common ./common
 COPY ./concepts ./concepts
 COPY ./data ./data
 
