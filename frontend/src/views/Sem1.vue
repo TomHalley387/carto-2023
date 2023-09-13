@@ -97,7 +97,7 @@ ul::-webkit-scrollbar-track {
           <ul>
             <li v-for="img in project.images" :key="img.path">
               <img
-                :src="'http://localhost:4499/concepts/' + img.path"
+                :src="'/img/concepts/' + img.path"
                 :alt="'Image for ' + studentName + ' - ' + project.conceptSlug"
                 loading="lazy"
               />
@@ -108,11 +108,9 @@ ul::-webkit-scrollbar-track {
     </div>
   </div>
 </template>
-
 <script>
-import { computed } from "vue";
+import { computed, ref, onMounted } from "vue";
 import _ from "lodash";
-import projects from "@/frontEndData.json"; // Import JSON directly
 
 export default {
   props: {
@@ -122,42 +120,41 @@ export default {
     },
   },
   setup(props) {
+    // 1. Create a mutable reference for projects
+    const projects = ref([]);
+
+    // 3. Fetch data from API and update projects
+    onMounted(async () => {
+      try {
+        const response = await fetch("/api/all-concepts");
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
+        }
+        const data = await response.json();
+        projects.value = data;
+      } catch (error) {
+        console.error("There was a problem fetching the data:", error);
+      }
+    });
+
     // Group the projects by 'uese' prop using lodash
     const groupedProjects = computed(() => {
-      return (
-        _.chain(projects)
-          // .filter((project) => project.user === props.user)
-          .groupBy("user")
-          .mapValues((userProjects) =>
-            userProjects
-              .filter((project) => project.images && project.images.length > 0)
-
-              .map((project) => ({
-                ...project,
-                augmentedImages: project.images.map((img) => ({
-                  path: img.path, //no editable here...
-                  ...img,
-                  ratio: img.ratio || "1",
-                })),
-              }))
-          )
-          .value()
-      );
+      return _.chain(projects.value)
+        .groupBy("user")
+        .mapValues((userProjects) =>
+          userProjects
+            .filter((project) => project.images && project.images.length > 0)
+            .map((project) => ({
+              ...project,
+              augmentedImages: project.images.map((img) => ({
+                path: img.path,
+                ...img,
+                ratio: img.ratio || "1",
+              })),
+            }))
+        )
+        .value();
     });
-    /*
-    console.log(groupedProjects, 4325);
-    // Augment the array of images with computed property
-    const augmentedImages = computed(() => {
-      return projects.map((project) => ({
-        ...project,
-        augmentedImages: project.images.map((img) => ({
-          path: "http://localhost:4000/" + img.path,
-          ...img,
-
-          ratio: img.ratio || "1",
-        })),
-      }));
-    });*/
 
     return { groupedProjects };
   },

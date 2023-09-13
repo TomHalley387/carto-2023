@@ -3,6 +3,10 @@ import { fileURLToPath, URL } from "node:url";
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 
+// Determine the API target based on the environment
+const isDev = process.env.NODE_ENV === "development";
+const apiTarget = isDev ? "http://localhost:4499" : "https://api.dddd.com";
+
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
@@ -15,15 +19,27 @@ export default defineConfig({
     outDir: fileURLToPath(new URL("../backend/vue-dist", import.meta.url)),
   },
   server: {
-    fs: {
-      // Allowing serving files from outside root
-      allow: ["..", "../concepts", "../../concepts"],
-    },
     proxy: {
-      "/concepts/*": {
-        target: "http://localhost:4000",
-        rewrite: (path) => path.replace(/^\/concepts/, ""),
+      /*
+      "/api*": {
+        target: apiTarget,
+        changeOrigin: true,
+      },*/
+      "/api/": {
+        target: apiTarget,
+        changeOrigin: true,
       },
+      "/img/concepts/": {
+        target: apiTarget,
+        //  rewrite: (path) => path.replace(/^\/concepts/, ""),
+        changeOrigin: true,
+      },
+      /*
+      "/concepts/*": {
+        target: apiTarget,
+        rewrite: (path) => path.replace(/^\/concepts/, ""),
+        changeOrigin: true,
+      },*/
     },
   },
 });

@@ -7,11 +7,14 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "start": "node index.js",
+    
     "test": "echo \"Error: no test specified\" && exit 1",
     "create-folders": "node scripts/initFolders.js",
     "encodeImages": "node scripts/encodeImages.mjs",
-    "updateFrontEndData": "node scripts/updateFrontEndData.mjs"
+    "updateAllConceptsData": "node scripts/updateAllConceptsData.mjs",
+    "front":"cd frontend && npm run dev",
+    "back":"cd backend && npm run dev",
+    "start":"cd backend && npm run start"
   },
   "keywords": [
     "ecole",

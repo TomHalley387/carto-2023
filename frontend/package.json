@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "serveImages": "npx http-server ../concepts -p 4000"
+    "serveImages": "npx http-server ../concepts -p 4000",
+    "dev2":  "nodemon --watch src --exec \"vite build\""
   },
   "dependencies": {
     "vue": "^3.3.4",

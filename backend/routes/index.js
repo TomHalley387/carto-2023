@@ -4,7 +4,7 @@ var router = express.Router();
 
 // Serve static files from the "concepts" folder.
 router.use(
-  "/concepts",
+  "/img/concepts",
   express.static(path.join(__dirname, "..", "..", "concepts"))
 );
 
