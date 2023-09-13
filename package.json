@@ -13,8 +13,12 @@
     "encodeImages": "node scripts/encodeImages.mjs",
     "updateAllConceptsData": "node scripts/updateAllConceptsData.mjs",
     "front":"cd frontend && npm run dev",
+    "buildFront":"cd frontend && npm run build",
     "back":"cd backend && npm run dev",
-    "start":"cd backend && npm run start"
+    "start":"cd backend && npm run start",
+
+"push": "git add . && git commit -m \"$(date)\" && git push origin gitlab-felix", 
+"deploy": "npm run buildFront &&  npm run push"
   },
   "keywords": [
     "ecole",
