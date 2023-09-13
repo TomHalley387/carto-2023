@@ -1,5 +1,5 @@
 {
-  "name": "ecole-mtl-cartographie",
+  "name": "ecole-mtl-cartographie-monorepo",
   "version": "1.0.0",
   "description": "Un projet du collectif école de MTL",
   "url": "TBD",
@@ -26,7 +26,7 @@
 "deploy": "npm run buildFront && npm run commitFront && npm run push"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.x"
   },
   "keywords": [
     "ecole",

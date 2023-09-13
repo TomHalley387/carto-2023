@@ -1,7 +1,7 @@
 # Dockerfile
 
 # Set the base image
-FROM node:18
+FROM node:16
 
 # Specify a working directory
 WORKDIR /usr/src/app
