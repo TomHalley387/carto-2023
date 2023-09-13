@@ -780,7 +780,68 @@
     {
         "user": "SantiagoB",
         "conceptSlug": "abstraction-coloree",
-        "images": []
+        "images": [
+            {
+                "path": "SantiagoB/abstraction-coloree/Automne.ori.jpg",
+                "width": 4608,
+                "height": 2592,
+                "ratio": 1.7777777777777777
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Bugs.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Cotton_Candy.ori.jpg",
+                "width": 4916,
+                "height": 3360,
+                "ratio": 1.463095238095238
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Flags.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Graffity.ori.jpg",
+                "width": 2048,
+                "height": 1366,
+                "ratio": 1.499267935578331
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Hammaks.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Legos.ori.jpg",
+                "width": 6000,
+                "height": 4000,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Long_Exposure.ori.jpg",
+                "width": 2048,
+                "height": 1366,
+                "ratio": 1.499267935578331
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Out_of_Focus.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "SantiagoB/abstraction-coloree/Rain.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            }
+        ]
     },
     {
         "user": "SantiagoB",
