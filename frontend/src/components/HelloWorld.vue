@@ -22,6 +22,7 @@ h1 {
   font-size: 2.6rem;
   position: relative;
   top: -10px;
+  color: #eee;
 }
 
 h3 {

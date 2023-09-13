@@ -2,7 +2,7 @@
   "name": "ecole-mtl-cartographie-monorepo",
   "version": "1.0.0",
   "description": "Un projet du collectif école de MTL",
-  "url": "TBD",
+  "url": "https://carto.ecoledemontreal.com/",
   "git": "https://github.com/ecole-mtl/carto-2023",
   "main": "index.js",
   "private": true,

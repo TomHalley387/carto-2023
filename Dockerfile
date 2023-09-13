@@ -24,7 +24,7 @@ RUN cd backend && npm install --only=prod --omit=dev
 
 # Inform Docker that the container is going to listen on the specified port
 #EXPOSE 5000
-EXPOSE 
+EXPOSE 5000
 
 # Define the command that should be executed
 # 'npm start' runs your application

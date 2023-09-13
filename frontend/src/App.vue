@@ -15,18 +15,18 @@ import HelloWorld from "./components/HelloWorld.vue";
         <br />
         <br />
         <img
-          alt="Vue logo"
+          alt="logo"
           class="logo"
-          src="@/assets/logo.svg"
-          width="125"
-          height="125"
+          src="@/assets/brand/logo1.webp"
+          width="225"
+          height="225"
         />
         <HelloWorld msg="École de Montréal" />
       </div>
 
       <!-- Navigation below the title -->
       <nav>
-        <RouterLink to="/">concepts par membres - sem1</RouterLink>
+        <RouterLink to="/">concepts par membres (sem1)</RouterLink>
         <!-- 
         <RouterLink to="/demo">demo</RouterLink>
         <RouterLink to="/about">About</RouterLink>
