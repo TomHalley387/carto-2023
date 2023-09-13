@@ -17,7 +17,7 @@
     "back":"cd backend && npm run dev",
     "start":"cd backend && npm run start",
 
-"push": "git add . && git commit -m \"$(date)\" && git push origin gitlab-felix", 
+"push": "git add . && git commit -m \"$(date)\" && git push gitlab-felix main ", 
 "deploy": "npm run buildFront &&  npm run push"
   },
   "keywords": [
