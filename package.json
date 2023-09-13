@@ -19,7 +19,7 @@
 
     "buildFront":"cd frontend && npm run build",
     "commitFront":"git add . && git commit -m \"$(date)\"",
-    "prodDeps": "  cd backend && npm i",
+    "prodDeps": "  cd backend && npm install  --only=prod",
 
 "push-vercel": " git push gitlab-felix main ", 
 "push": "git push dokku main:master",
@@ -36,9 +36,9 @@
   "author": "Code: Félix M, Images: Collectif école de MTL",
   "license": "c",
   "dependencies": {
-    "@xenova/transformers": "^2.6.0",
+   
     "csv-parser": "^3.0.0",
-    "express": "^4.17.1",
+  
     "lodash": "^4.17.21",
     "node-fetch": "^3.3.2",
     "papaparse": "^5.4.1",
@@ -46,6 +46,8 @@
     "slugify": "^1.6.6" 
   },
   "devDependencies": {
+    "express": "^4.17.1",
+    "@xenova/transformers": "^2.6.0",
     "nodemon": "^2.0.7"
   }
 }
