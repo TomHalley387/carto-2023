@@ -143,7 +143,7 @@ function scanImages(dir) {
     if (fs.statSync(filePath).isDirectory()) {
       allImages.push(...scanImages(filePath));
     } else if (
-      [".jpg", ".jpeg", ".png", ".gif"].includes(
+      [".jpg", ".jpeg", ".png", ".gif", ".webp"].includes(
         path.extname(file).toLowerCase()
       )
     ) {
