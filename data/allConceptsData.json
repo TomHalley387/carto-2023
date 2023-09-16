@@ -361,64 +361,64 @@
         "conceptSlug": "artefacts-visuels-accidentels",
         "images": [
             {
-                "path": "FlorenceL/artefacts-visuels-accidentels/1460504852-image.jpg",
-                "width": 3264,
-                "height": 2448,
-                "ratio": 1.3333333333333333
-            },
-            {
-                "path": "FlorenceL/artefacts-visuels-accidentels/1OIG.ia.ori.jpg",
-                "width": 1024,
-                "height": 1024,
-                "ratio": 1
-            },
-            {
-                "path": "FlorenceL/artefacts-visuels-accidentels/2023-09-12 142139.png",
-                "width": 461,
-                "height": 470,
-                "ratio": 0.9808510638297873
-            },
-            {
-                "path": "FlorenceL/artefacts-visuels-accidentels/2023-09-12 142301.png",
-                "width": 668,
-                "height": 456,
-                "ratio": 1.4649122807017543
-            },
-            {
-                "path": "FlorenceL/artefacts-visuels-accidentels/bug.jpg",
-                "width": 824,
-                "height": 509,
-                "ratio": 1.618860510805501
-            },
-            {
-                "path": "FlorenceL/artefacts-visuels-accidentels/drrr.jpg",
+                "path": "FlorenceL/artefacts-visuels-accidentels/artefact.jpg",
                 "width": 426,
                 "height": 569,
                 "ratio": 0.7486818980667839
             },
             {
-                "path": "FlorenceL/artefacts-visuels-accidentels/glitch-03-1024x576.png",
+                "path": "FlorenceL/artefacts-visuels-accidentels/couleur_ordinateur.ia.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            },
+            {
+                "path": "FlorenceL/artefacts-visuels-accidentels/ecran.jpg",
+                "width": 3264,
+                "height": 2448,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/artefacts-visuels-accidentels/ecran_mauve.jpg",
+                "width": 600,
+                "height": 368,
+                "ratio": 1.6304347826086956
+            },
+            {
+                "path": "FlorenceL/artefacts-visuels-accidentels/flou.jpg",
+                "width": 227,
+                "height": 222,
+                "ratio": 1.0225225225225225
+            },
+            {
+                "path": "FlorenceL/artefacts-visuels-accidentels/glitch.png",
                 "width": 1024,
                 "height": 576,
                 "ratio": 1.7777777777777777
             },
             {
-                "path": "FlorenceL/artefacts-visuels-accidentels/image_94993.jpg",
-                "width": 600,
-                "height": 368,
-                "ratio": 1.6304347826086956
+                "path": "FlorenceL/artefacts-visuels-accidentels/photographie1.png",
+                "width": 461,
+                "height": 470,
+                "ratio": 0.9808510638297873
+            },
+            {
+                "path": "FlorenceL/artefacts-visuels-accidentels/photographie2.png",
+                "width": 668,
+                "height": 456,
+                "ratio": 1.4649122807017543
+            },
+            {
+                "path": "FlorenceL/artefacts-visuels-accidentels/pixel.jpg",
+                "width": 824,
+                "height": 509,
+                "ratio": 1.618860510805501
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/soleilbloom2.jpg",
                 "width": 500,
                 "height": 333,
                 "ratio": 1.5015015015015014
-            },
-            {
-                "path": "FlorenceL/artefacts-visuels-accidentels/téléchargement.jpg",
-                "width": 227,
-                "height": 222,
-                "ratio": 1.0225225225225225
             }
         ]
     },
@@ -427,40 +427,22 @@
         "conceptSlug": "collages-surrealistes",
         "images": [
             {
-                "path": "FlorenceL/collages-surrealistes/2b73e5465870dbf3213cb4735ddd0317.png",
-                "width": 1000,
-                "height": 1000,
-                "ratio": 1
+                "path": "FlorenceL/collages-surrealistes/balais.jpg",
+                "width": 194,
+                "height": 260,
+                "ratio": 0.7461538461538462
             },
             {
-                "path": "FlorenceL/collages-surrealistes/Mohanad-Shuraideh-collage-espace.jpg",
+                "path": "FlorenceL/collages-surrealistes/callage_rue.jpg",
                 "width": 1400,
                 "height": 1400,
                 "ratio": 1
             },
             {
-                "path": "FlorenceL/collages-surrealistes/Sandra-Reis-collage-fisheye-5-580x812.jpg",
-                "width": 580,
-                "height": 812,
-                "ratio": 0.7142857142857143
-            },
-            {
-                "path": "FlorenceL/collages-surrealistes/artedelph-refletsurrealiste-peinturecollage-portraitpop_artstr-theartcycle-photo_principale.jpg",
+                "path": "FlorenceL/collages-surrealistes/collage1.jpg",
                 "width": 648,
                 "height": 681,
                 "ratio": 0.9515418502202643
-            },
-            {
-                "path": "FlorenceL/collages-surrealistes/collages-Mohanad-Shuraideh.jpg",
-                "width": 1400,
-                "height": 1400,
-                "ratio": 1
-            },
-            {
-                "path": "FlorenceL/collages-surrealistes/des-collages-surrealistes-pour-accepter-son-corps.jpg",
-                "width": 1200,
-                "height": 755,
-                "ratio": 1.5894039735099337
             },
             {
                 "path": "FlorenceL/collages-surrealistes/femme.jpg",
@@ -469,45 +451,124 @@
                 "ratio": 0.713091922005571
             },
             {
-                "path": "FlorenceL/collages-surrealistes/images.jpg",
-                "width": 194,
-                "height": 260,
-                "ratio": 0.7461538461538462
-            },
-            {
                 "path": "FlorenceL/collages-surrealistes/map-collage.jpg",
                 "width": 600,
                 "height": 650,
                 "ratio": 0.9230769230769231
             },
             {
+                "path": "FlorenceL/collages-surrealistes/nuage.png",
+                "width": 1000,
+                "height": 1000,
+                "ratio": 1
+            },
+            {
+                "path": "FlorenceL/collages-surrealistes/planete.jpg",
+                "width": 580,
+                "height": 812,
+                "ratio": 0.7142857142857143
+            },
+            {
+                "path": "FlorenceL/collages-surrealistes/planete2.jpg",
+                "width": 1400,
+                "height": 1400,
+                "ratio": 1
+            },
+            {
                 "path": "FlorenceL/collages-surrealistes/poisson_homme.jpg",
                 "width": 699,
                 "height": 989,
                 "ratio": 0.7067745197168858
+            },
+            {
+                "path": "FlorenceL/collages-surrealistes/visage_chat.jpg",
+                "width": 1200,
+                "height": 755,
+                "ratio": 1.5894039735099337
             }
         ]
     },
     {
         "user": "FlorenceL",
         "conceptSlug": "patterns-repetitions",
-        "images": []
+        "images": [
+            {
+                "path": "FlorenceL/patterns-repetitions/arbre.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/batiment.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/brique.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/cloture.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/escalier.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/feuille.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/fleur1.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/fleur2.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/fleur3.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "FlorenceL/patterns-repetitions/marche.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            }
+        ]
     },
     {
         "user": "FlorenceL",
         "conceptSlug": "reportage-de-guerre",
         "images": [
             {
-                "path": "FlorenceL/reportage-de-guerre/000_32JD9DD.jpg",
-                "width": 1584,
-                "height": 891,
-                "ratio": 1.7777777777777777
+                "path": "FlorenceL/reportage-de-guerre/balancoire.jpg",
+                "width": 612,
+                "height": 408,
+                "ratio": 1.5
             },
             {
-                "path": "FlorenceL/reportage-de-guerre/2023-09-12 130037.png",
-                "width": 856,
-                "height": 496,
-                "ratio": 1.7258064516129032
+                "path": "FlorenceL/reportage-de-guerre/char_dassaut.jpg",
+                "width": 612,
+                "height": 408,
+                "ratio": 1.5
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/civil_fuyant.jpg",
@@ -516,16 +577,16 @@
                 "ratio": 1.5
             },
             {
-                "path": "FlorenceL/reportage-de-guerre/gettyimages-1238745447-612x612.jpg",
+                "path": "FlorenceL/reportage-de-guerre/debris.jpg",
                 "width": 612,
                 "height": 408,
                 "ratio": 1.5
             },
             {
-                "path": "FlorenceL/reportage-de-guerre/gettyimages-464495524-612x612.jpg",
-                "width": 612,
-                "height": 408,
-                "ratio": 1.5
+                "path": "FlorenceL/reportage-de-guerre/explosion.png",
+                "width": 856,
+                "height": 496,
+                "ratio": 1.7258064516129032
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/guerre.png",
@@ -534,13 +595,13 @@
                 "ratio": 1.5121293800539084
             },
             {
-                "path": "FlorenceL/reportage-de-guerre/istockphoto-1387105111-612x612.jpg",
-                "width": 612,
-                "height": 408,
-                "ratio": 1.5
+                "path": "FlorenceL/reportage-de-guerre/soldat.jpg",
+                "width": 1584,
+                "height": 891,
+                "ratio": 1.7777777777777777
             },
             {
-                "path": "FlorenceL/reportage-de-guerre/istockphoto-941116916-612x612.jpg",
+                "path": "FlorenceL/reportage-de-guerre/soldat2.jpg",
                 "width": 612,
                 "height": 405,
                 "ratio": 1.511111111111111
