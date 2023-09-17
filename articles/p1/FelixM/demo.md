@@ -16,6 +16,11 @@ authorsAlt:
   - name: Félix
     affiliations:
       - University of St-Jérôme
+chatGpt:
+  - https://chat.openai.com/share/0785d7de-63d8-41cb-a2fe-590a728db9e5
+  - https://chat.openai.com/share/0785d7de-63d8-41cb-a2fe-590a728db9e5
+sources:
+  - https://en.wikipedia.org/wiki/Gregory_Bateson
 ---
 
 
