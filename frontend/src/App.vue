@@ -1,8 +1,30 @@
-<script setup>
-import { RouterLink, RouterView } from "vue-router";
+<script>
+import { ref } from "vue";
 import HelloWorld from "./components/HelloWorld.vue";
 
-// index.js
+export default {
+  name: "YourComponentName", // Replace with your desired component name
+
+  components: {
+    HelloWorld,
+    // Ensure to import and add any other components like 'it-switch' and 'it-toggle' if they are custom components.
+  },
+
+  setup() {
+    // Data
+    const toggleIconsValue = ref("light");
+    const toggleIconsValue2 = ref(true);
+
+    // Any methods or computed properties can go here.
+    // For now, it seems you only have the reactive properties (`ref`s).
+
+    // Return values that the template can access
+    return {
+      toggleIconsValue,
+      toggleIconsValue2,
+    };
+  },
+};
 </script>
 
 <template>
@@ -31,6 +53,12 @@ import HelloWorld from "./components/HelloWorld.vue";
         <!-- 
         <RouterLink to="/demo">demo</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+              <it-switch
+        v-model="toggleIconsValue2"
+        variant="success"
+        label="Success"
+      />
+
          -->
       </nav>
     </header>

@@ -1,5 +1,6 @@
 ---
 title: Mon premier article
+subtitle: ou comment lorem ipsum
 date: 2023-08-18
 tags: test, demo
 thumbnail: https://lh3.googleusercontent.com/D3-OahttrL-yH62XV-Ss1HzQWT1RaCeAowh_b24TSPUbfilOv559cGrzrExTklxin0oOrZ4RlyPYe85coUMZDSTCqgMOlsofyLm3RKFzhwONddZRf8X_=w2400-rj

@@ -1,11 +1,17 @@
-import './assets/main.css'
+import "./assets/main.css";
 
-import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
+import { createApp } from "vue";
+import App from "./App.vue";
+import "./index.css";
+import router from "./router";
 
-const app = createApp(App)
+import Equal from "equal-vue";
+import Config from "equal-vue/dist/theme/full"; // or light / dark theme
 
-app.use(router)
+//createApp.use(Equal, Config);
 
-app.mount('#app')
+const app = createApp(App);
+app.use(Equal, Config);
+app.use(router);
+
+app.mount("#app");

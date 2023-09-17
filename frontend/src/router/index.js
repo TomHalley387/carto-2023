@@ -29,6 +29,10 @@ const router = createRouter({
       path: "/articles",
       component: () => import("../views/Articles.vue"),
     },
+    {
+      path: "/articles/:slug",
+      component: () => import("../views/Article.vue"),
+    },
   ],
 });
 

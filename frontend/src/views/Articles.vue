@@ -1,10 +1,16 @@
 <template>
   <div class="articles-container">
-    <div v-for="article in articles" :key="article.id" class="article-card">
+    <router-link
+      v-for="article in articles"
+      :to="'/articles/' + article.slug"
+      :key="article.id"
+      class="article-card"
+    >
       <img :src="article.image" alt="Article Image" class="article-image" />
       <h2 class="article-title">{{ article.title }}</h2>
-      <p class="article-summary">{{ article.summary }}</p>
-    </div>
+      <p class="article-summary elips2" v-html="article.content"></p>
+      {{ article }}
+    </router-link>
   </div>
 </template>
 

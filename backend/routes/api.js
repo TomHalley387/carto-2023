@@ -45,24 +45,34 @@ function getMdFiles(dir, files_) {
   return files_;
 }
 
-router.get("/articles/all", (req, res) => {
+let ARTCLES = [];
+function loadArticles() {
   const mdFiles = getMdFiles(articlesDir);
-  const articles = [];
+  ARTCLES = [];
 
   mdFiles.forEach((file) => {
     const fileContent = fs.readFileSync(file, "utf-8");
     const { data, content } = matter(fileContent);
     const htmlContent = md.render(content);
 
-    articles.push({
+    ARTCLES.push({
       slug: path.basename(file, ".md"),
       path: path.relative(articlesDir, file),
-      frontMatter: data,
+      /// frontMatter: data,
       content: htmlContent,
+      ...data,
     });
   });
+}
 
-  res.json(articles);
+router.get("/articles/all", (req, res) => {
+  res.json(ARTCLES);
+});
+router.get("/articles/:slug", (req, res) => {
+  var a = ARTCLES.filter((a) => a.slug == req.params.slug);
+  res.json(a[0]);
+  // res.json(ARTCLES);
 });
 
+loadArticles();
 module.exports = router;
