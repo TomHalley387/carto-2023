@@ -7,61 +7,81 @@
                 "path": "AldricB/art-cinetique/art-cinetique.1.jpg",
                 "width": 300,
                 "height": 300,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.10.webp",
                 "width": 430,
                 "height": 286,
-                "ratio": 1.5034965034965035
+                "ratio": 1.5034965034965035,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.2.jpg",
                 "width": 540,
                 "height": 360,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.3.jpeg",
                 "width": 500,
                 "height": 451,
-                "ratio": 1.1086474501108647
+                "ratio": 1.1086474501108647,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.4.webp",
                 "width": 640,
                 "height": 480,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.5.jpg",
                 "width": 1280,
                 "height": 638,
-                "ratio": 2.006269592476489
+                "ratio": 2.006269592476489,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.6.webp",
                 "width": 884,
                 "height": 1278,
-                "ratio": 0.6917057902973396
+                "ratio": 0.6917057902973396,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.7.jpg",
                 "width": 720,
                 "height": 720,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.8.jpg",
                 "width": 940,
                 "height": 627,
-                "ratio": 1.4992025518341308
+                "ratio": 1.4992025518341308,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/art-cinetique/art-cinetique.9.jpg",
                 "width": 1024,
                 "height": 768,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -73,61 +93,81 @@
                 "path": "AldricB/formes-architecturales/Forme Architecturale.1.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.10.png",
                 "width": 4080,
                 "height": 2720,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.2.png",
                 "width": 2720,
                 "height": 4080,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.3.png",
                 "width": 2720,
                 "height": 4080,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.4.png",
                 "width": 4080,
                 "height": 2720,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.5.png",
                 "width": 4080,
                 "height": 2720,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.6.png",
                 "width": 2720,
                 "height": 4080,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.7.png",
                 "width": 4080,
                 "height": 2720,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.8.png",
                 "width": 2720,
                 "height": 4080,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/formes-architecturales/Forme Architecturale.9.png",
                 "width": 2720,
                 "height": 4080,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -139,55 +179,73 @@
                 "path": "AldricB/paysages-grandioses/Forme Architecturale.10.jpeg",
                 "width": 275,
                 "height": 183,
-                "ratio": 1.5027322404371584
+                "ratio": 1.5027322404371584,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Forme Architecturale.2.jpeg",
                 "width": 259,
                 "height": 194,
-                "ratio": 1.3350515463917525
+                "ratio": 1.3350515463917525,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Forme Architecturale.3.jpeg",
                 "width": 1280,
                 "height": 700,
-                "ratio": 1.8285714285714285
+                "ratio": 1.8285714285714285,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Forme Architecturale.5.jpg",
                 "width": 920,
                 "height": 460,
-                "ratio": 2
+                "ratio": 2,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Forme Architecturale.6.jpeg",
                 "width": 340,
                 "height": 148,
-                "ratio": 2.2972972972972974
+                "ratio": 2.2972972972972974,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Forme Architecturale.7.jpg",
                 "width": 1920,
                 "height": 780,
-                "ratio": 2.4615384615384617
+                "ratio": 2.4615384615384617,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Paysages_grandioses.1.png",
                 "width": 2720,
                 "height": 4080,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Paysages_grandioses.8.webp",
                 "width": 750,
                 "height": 385,
-                "ratio": 1.948051948051948
+                "ratio": 1.948051948051948,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/paysages-grandioses/Paysages_grandioses.9.webp",
                 "width": 1200,
                 "height": 795,
-                "ratio": 1.509433962264151
+                "ratio": 1.509433962264151,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -199,61 +257,81 @@
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.1.jpg",
                 "width": 924,
                 "height": 586,
-                "ratio": 1.57679180887372
+                "ratio": 1.57679180887372,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.10.jpg",
                 "width": 1200,
                 "height": 680,
-                "ratio": 1.7647058823529411
+                "ratio": 1.7647058823529411,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.2.png",
                 "width": 512,
                 "height": 341,
-                "ratio": 1.501466275659824
+                "ratio": 1.501466275659824,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.3.jpg",
                 "width": 1600,
                 "height": 1274,
-                "ratio": 1.2558869701726845
+                "ratio": 1.2558869701726845,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.4.jpg",
                 "width": 828,
                 "height": 828,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.5.jpg",
                 "width": 1600,
                 "height": 900,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.6.jpg",
                 "width": 1000,
                 "height": 640,
-                "ratio": 1.5625
+                "ratio": 1.5625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.7.jpg",
                 "width": 2000,
                 "height": 1000,
-                "ratio": 2
+                "ratio": 2,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.8.jpg",
                 "width": 900,
                 "height": 900,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "AldricB/portraits-d-athletes/Portaits_d'athletes.9.jpg",
                 "width": 1280,
                 "height": 720,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -305,79 +383,105 @@
                 "path": "CamilleC/bokeh-creatif/HARAM.ori.jpg",
                 "width": 3584,
                 "height": 2240,
-                "ratio": 1.6
+                "ratio": 1.6,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/Sean1.jpg",
                 "width": 1792,
                 "height": 828,
-                "ratio": 2.1642512077294684
+                "ratio": 2.1642512077294684,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/Sean2.jpg",
                 "width": 3584,
                 "height": 2240,
-                "ratio": 1.6
+                "ratio": 1.6,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/Sean3.jpg",
                 "width": 1792,
                 "height": 828,
-                "ratio": 2.1642512077294684
+                "ratio": 2.1642512077294684,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/Sean4.ia.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/The-Grand-Budapest-Hotel-bokeh.jpg",
                 "width": 800,
                 "height": 604,
-                "ratio": 1.3245033112582782
+                "ratio": 1.3245033112582782,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/Toy-Story-4-bokeh.jpg",
                 "width": 800,
                 "height": 335,
-                "ratio": 2.388059701492537
+                "ratio": 2.388059701492537,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/Translation-lost-in.jpg",
                 "width": 1024,
                 "height": 576,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/WPP.ori.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/bokeh-orgue.ori.jpg",
                 "width": 825,
                 "height": 826,
-                "ratio": 0.9987893462469734
+                "ratio": 0.9987893462469734,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/bokeh3.ia.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/bokeh4.ia.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/bokeh-creatif/bokeh5.ia.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -389,55 +493,73 @@
                 "path": "CamilleC/faune-rare/BlackRhinos.ia.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/MorphoHelenor.ori.jgp.jpeg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/OursPolaire4.ia.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/baleine-bleue.jpg",
                 "width": 1200,
                 "height": 898,
-                "ratio": 1.3363028953229399
+                "ratio": 1.3363028953229399,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/cobra-royal.jpg",
                 "width": 1600,
                 "height": 900,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/koala.jpg",
                 "width": 1024,
                 "height": 684,
-                "ratio": 1.4970760233918128
+                "ratio": 1.4970760233918128,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/monarque.jpg",
                 "width": 1728,
                 "height": 1152,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/orang-outan.jpg",
                 "width": 600,
                 "height": 400,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/faune-rare/panda-géant.jpg",
                 "width": 1280,
                 "height": 853,
-                "ratio": 1.5005861664712778
+                "ratio": 1.5005861664712778,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -449,55 +571,73 @@
                 "path": "CamilleC/iconographie-religieuse/Autel1.ori.jpg",
                 "width": 1640,
                 "height": 2360,
-                "ratio": 0.6949152542372882
+                "ratio": 0.6949152542372882,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/iconographie-religieuse/Autel2.ori.jpeg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/iconographie-religieuse/Croix.ori.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/iconographie-religieuse/Jesus.ai.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": true
             },
             {
                 "path": "CamilleC/iconographie-religieuse/JesusVitrail.jgp.png",
                 "width": 1000,
                 "height": 1588,
-                "ratio": 0.6297229219143576
+                "ratio": 0.6297229219143576,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/iconographie-religieuse/Paganism-wicca-witchcraft1.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/iconographie-religieuse/Vitrail.jpg",
                 "width": 1000,
                 "height": 1600,
-                "ratio": 0.625
+                "ratio": 0.625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/iconographie-religieuse/Vitrail.ori.jpg",
                 "width": 828,
                 "height": 1371,
-                "ratio": 0.6039387308533917
+                "ratio": 0.6039387308533917,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/iconographie-religieuse/paganism-wicca-whichcraft2.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -509,79 +649,105 @@
                 "path": "CamilleC/photographie-minimaliste/Banksy_Balloon_Girl_London.jpg",
                 "width": 1259,
                 "height": 839,
-                "ratio": 1.500595947556615
+                "ratio": 1.500595947556615,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/IMG_0376.ori.jpg",
                 "width": 5184,
                 "height": 5184,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/IMG_0377.ori.jpg",
                 "width": 5184,
                 "height": 5184,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/IMG_0378.ori.jpg",
                 "width": 2449,
                 "height": 2449,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/IMG_0379.ori.jpg",
                 "width": 5888,
                 "height": 5880,
-                "ratio": 1.0013605442176872
+                "ratio": 1.0013605442176872,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/IMG_0381.ori.jpg",
                 "width": 4033,
                 "height": 4032,
-                "ratio": 1.0002480158730158
+                "ratio": 1.0002480158730158,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/IMG_0384.ori.jpg",
                 "width": 1881,
                 "height": 1882,
-                "ratio": 0.9994686503719448
+                "ratio": 0.9994686503719448,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/photo-minimaliste.ia.ori.jpg",
                 "width": 1024,
                 "height": 1005,
-                "ratio": 1.0189054726368159
+                "ratio": 1.0189054726368159,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/photo-minimaliste1.ori.jpg",
                 "width": 3239,
                 "height": 5184,
-                "ratio": 0.6248070987654321
+                "ratio": 0.6248070987654321,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/photo-minimaliste2.ori.jpg",
                 "width": 3456,
                 "height": 5184,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/photo-minimaliste3.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/photo-minimaliste5.ori.jpeg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "CamilleC/photographie-minimaliste/photo-montage-minimaliste.ori.jpg",
                 "width": 3000,
                 "height": 3000,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -633,61 +799,81 @@
                 "path": "EmilieF/cartographie/carte_01.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_02.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_03.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_annie_sprat_unsplash.jpg",
                 "width": 4000,
                 "height": 2667,
-                "ratio": 1.4998125234345707
+                "ratio": 1.4998125234345707,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_jose_martin_ramirez_carrasco_unsplash.jpg",
                 "width": 3498,
                 "height": 2332,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_kurt_sunkel_unsplash.jpg",
                 "width": 6000,
                 "height": 4000,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_nasa_unsplash.jpg",
                 "width": 4256,
                 "height": 2832,
-                "ratio": 1.502824858757062
+                "ratio": 1.502824858757062,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_nico_smit_unsplash.jpg",
                 "width": 4032,
                 "height": 2268,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_vue_paris_01.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cartographie/carte_vue_paris_02.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -699,61 +885,81 @@
                 "path": "EmilieF/cyberspace/cyber_avatar_virtuel_honkai_01.jpg",
                 "width": 1440,
                 "height": 665,
-                "ratio": 2.1654135338345863
+                "ratio": 2.1654135338345863,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_avatar_virtuel_honkai_02.jpg",
                 "width": 1440,
                 "height": 665,
-                "ratio": 2.1654135338345863
+                "ratio": 2.1654135338345863,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_clavier_chris_hainto_unsplash.jpg",
                 "width": 4592,
                 "height": 2576,
-                "ratio": 1.7826086956521738
+                "ratio": 1.7826086956521738,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_clavier_jay_zhang_-unsplash.jpg",
                 "width": 6510,
                 "height": 4340,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_code_01_markus_spiske_unsplash.jpg",
                 "width": 5688,
                 "height": 3713,
-                "ratio": 1.5319148936170213
+                "ratio": 1.5319148936170213,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_code_02_markus_spiske_unsplash.jpg",
                 "width": 5760,
                 "height": 3840,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_code_03_markus_spiske_unsplash.jpg",
                 "width": 3500,
                 "height": 2333,
-                "ratio": 1.5002143163309045
+                "ratio": 1.5002143163309045,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_code_04_markus_spiske_unsplash.jpg",
                 "width": 5760,
                 "height": 3840,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_vr_jeshoots_com_unsplash.jpg",
                 "width": 5600,
                 "height": 3733,
-                "ratio": 1.5001339405304046
+                "ratio": 1.5001339405304046,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/cyberspace/cyber_vr_remy_gieling_unsplash.jpg",
                 "width": 6546,
                 "height": 4364,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -765,61 +971,81 @@
                 "path": "EmilieF/diagrammes-scientifiques/science_cellule_quizlet.jpg",
                 "width": 736,
                 "height": 683,
-                "ratio": 1.0775988286969254
+                "ratio": 1.0775988286969254,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_livre_tony_sebastian_unsplash.jpg",
                 "width": 3000,
                 "height": 3000,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_orque_superkintaro.jpg",
                 "width": 1000,
                 "height": 1603,
-                "ratio": 0.6238303181534622
+                "ratio": 0.6238303181534622,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_os_annie-spratt_unsplash.jpg",
                 "width": 5304,
                 "height": 7952,
-                "ratio": 0.6670020120724346
+                "ratio": 0.6670020120724346,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_os_chuttersnap_unsplash.jpg",
                 "width": 6048,
                 "height": 4024,
-                "ratio": 1.502982107355865
+                "ratio": 1.502982107355865,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_os_joyce_hankins_unsplash.jpg",
                 "width": 8400,
                 "height": 6300,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_planete_01_raw_pixel.jpg",
                 "width": 3500,
                 "height": 2774,
-                "ratio": 1.261715933669791
+                "ratio": 1.261715933669791,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_planete_02_raw_pixel.jpg",
                 "width": 1200,
                 "height": 951,
-                "ratio": 1.2618296529968454
+                "ratio": 1.2618296529968454,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_planete_03_raw_pixel.jpg",
                 "width": 2638,
                 "height": 3501,
-                "ratio": 0.7534990002856327
+                "ratio": 0.7534990002856327,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmilieF/diagrammes-scientifiques/science_planete_04_raw_pixel.jpg",
                 "width": 1000,
                 "height": 813,
-                "ratio": 1.2300123001230012
+                "ratio": 1.2300123001230012,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -831,79 +1057,105 @@
                 "path": "EmilieF/photos-en-sepia/sepia_bernaches.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_chaise.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_chat.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_confiance.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_ecriture.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_eglise_01.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_eglise_02.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_eglise_03.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_eglise_04.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_escaliers.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_piano.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_pont.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmilieF/photos-en-sepia/sepia_velo.ori.jpg",
                 "width": 2048,
                 "height": 1365,
-                "ratio": 1.5003663003663004
+                "ratio": 1.5003663003663004,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -920,61 +1172,81 @@
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience1.jpg",
                 "width": 512,
                 "height": 342,
-                "ratio": 1.4970760233918128
+                "ratio": 1.4970760233918128,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience10.jpg",
                 "width": 512,
                 "height": 320,
-                "ratio": 1.6
+                "ratio": 1.6,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience2.jpg",
                 "width": 512,
                 "height": 437,
-                "ratio": 1.17162471395881
+                "ratio": 1.17162471395881,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience3.jpg",
                 "width": 512,
                 "height": 384,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience4.jpg",
                 "width": 512,
                 "height": 288,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience5.jpg",
                 "width": 341,
                 "height": 512,
-                "ratio": 0.666015625
+                "ratio": 0.666015625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience6.jpg",
                 "width": 410,
                 "height": 512,
-                "ratio": 0.80078125
+                "ratio": 0.80078125,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience7.jpg",
                 "width": 410,
                 "height": 512,
-                "ratio": 0.80078125
+                "ratio": 0.80078125,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience8.jpg",
                 "width": 512,
                 "height": 342,
-                "ratio": 1.4970760233918128
+                "ratio": 1.4970760233918128,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/ambiance-et-atmosphere/ambience9.jpg",
                 "width": 512,
                 "height": 384,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -986,61 +1258,81 @@
                 "path": "EmmanuelT/infographies/infographie1.png",
                 "width": 368,
                 "height": 512,
-                "ratio": 0.71875
+                "ratio": 0.71875,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie10.jpg",
                 "width": 512,
                 "height": 475,
-                "ratio": 1.0778947368421052
+                "ratio": 1.0778947368421052,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie2.jpg",
                 "width": 512,
                 "height": 502,
-                "ratio": 1.0199203187250996
+                "ratio": 1.0199203187250996,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie3.jpg",
                 "width": 512,
                 "height": 483,
-                "ratio": 1.060041407867495
+                "ratio": 1.060041407867495,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie4.png",
                 "width": 512,
                 "height": 349,
-                "ratio": 1.4670487106017192
+                "ratio": 1.4670487106017192,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie5.png",
                 "width": 512,
                 "height": 362,
-                "ratio": 1.4143646408839778
+                "ratio": 1.4143646408839778,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie6.jpg",
                 "width": 512,
                 "height": 512,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie7.png",
                 "width": 512,
                 "height": 288,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie8.jpg",
                 "width": 512,
                 "height": 342,
-                "ratio": 1.4970760233918128
+                "ratio": 1.4970760233918128,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/infographies/infographie9.jpg",
                 "width": 512,
                 "height": 341,
-                "ratio": 1.501466275659824
+                "ratio": 1.501466275659824,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1052,61 +1344,81 @@
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste1.jpg",
                 "width": 512,
                 "height": 512,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste10.jpg",
                 "width": 808,
                 "height": 960,
-                "ratio": 0.8416666666666667
+                "ratio": 0.8416666666666667,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste2.jpg",
                 "width": 243,
                 "height": 208,
-                "ratio": 1.1682692307692308
+                "ratio": 1.1682692307692308,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste3.png",
                 "width": 512,
                 "height": 512,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste4.jpg",
                 "width": 373,
                 "height": 450,
-                "ratio": 0.8288888888888889
+                "ratio": 0.8288888888888889,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste5.jpg",
                 "width": 512,
                 "height": 389,
-                "ratio": 1.3161953727506426
+                "ratio": 1.3161953727506426,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste6.jpg",
                 "width": 393,
                 "height": 512,
-                "ratio": 0.767578125
+                "ratio": 0.767578125,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste7.jpg",
                 "width": 195,
                 "height": 258,
-                "ratio": 0.7558139534883721
+                "ratio": 0.7558139534883721,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste8.jpg",
                 "width": 512,
                 "height": 366,
-                "ratio": 1.3989071038251366
+                "ratio": 1.3989071038251366,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/mises-en-scene-surrealistes/surrealiste9.jpg",
                 "width": 512,
                 "height": 452,
-                "ratio": 1.1327433628318584
+                "ratio": 1.1327433628318584,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1118,61 +1430,81 @@
                 "path": "EmmanuelT/storyboard/storyboard.ori.1.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.2.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.3.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.4.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.5.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.6.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.7.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.8.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.9.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "EmmanuelT/storyboard/storyboard.ori.final.jpg",
                 "width": 384,
                 "height": 512,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -1184,25 +1516,33 @@
                 "path": "FelixM/chat-occulte-cinema/1.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/chat-occulte-cinema/2.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/chat-occulte-cinema/3.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/chat-occulte-cinema/4.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             }
         ]
     },
@@ -1214,37 +1554,49 @@
                 "path": "FelixM/crapstraction/1.webp",
                 "width": 700,
                 "height": 466,
-                "ratio": 1.502145922746781
+                "ratio": 1.502145922746781,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FelixM/crapstraction/2.webp",
                 "width": 700,
                 "height": 466,
-                "ratio": 1.502145922746781
+                "ratio": 1.502145922746781,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FelixM/crapstraction/3.webp",
                 "width": 700,
                 "height": 466,
-                "ratio": 1.502145922746781
+                "ratio": 1.502145922746781,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FelixM/crapstraction/4.webp",
                 "width": 700,
                 "height": 466,
-                "ratio": 1.502145922746781
+                "ratio": 1.502145922746781,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FelixM/crapstraction/5.webp",
                 "width": 700,
                 "height": 466,
-                "ratio": 1.502145922746781
+                "ratio": 1.502145922746781,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FelixM/crapstraction/6.webp",
                 "width": 700,
                 "height": 466,
-                "ratio": 1.502145922746781
+                "ratio": 1.502145922746781,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1256,25 +1608,33 @@
                 "path": "FelixM/cremelted/1.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/cremelted/2.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/cremelted/3.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/cremelted/4.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             }
         ]
     },
@@ -1286,19 +1646,25 @@
                 "path": "FelixM/mon-auto-ma-famille-stereotype-annees-70/1.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/mon-auto-ma-famille-stereotype-annees-70/2.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/mon-auto-ma-famille-stereotype-annees-70/3.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             }
         ]
     },
@@ -1310,61 +1676,81 @@
                 "path": "FelixM/photo-de-famille-maladroite-90/1.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/10.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/2.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/3.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/4.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/5.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/6.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/7.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/8.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             },
             {
                 "path": "FelixM/photo-de-famille-maladroite-90/9.ai.png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": true
             }
         ]
     },
@@ -1376,61 +1762,81 @@
                 "path": "FlorenceL/artefacts-visuels-accidentels/artefact.jpg",
                 "width": 426,
                 "height": 569,
-                "ratio": 0.7486818980667839
+                "ratio": 0.7486818980667839,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/couleur_ordinateur.ia.ori.jpg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/ecran.jpg",
                 "width": 3264,
                 "height": 2448,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/ecran_mauve.jpg",
                 "width": 600,
                 "height": 368,
-                "ratio": 1.6304347826086956
+                "ratio": 1.6304347826086956,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/flou.jpg",
                 "width": 227,
                 "height": 222,
-                "ratio": 1.0225225225225225
+                "ratio": 1.0225225225225225,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/glitch.png",
                 "width": 1024,
                 "height": 576,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/photographie1.png",
                 "width": 461,
                 "height": 470,
-                "ratio": 0.9808510638297873
+                "ratio": 0.9808510638297873,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/photographie2.png",
                 "width": 668,
                 "height": 456,
-                "ratio": 1.4649122807017543
+                "ratio": 1.4649122807017543,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/pixel.jpg",
                 "width": 824,
                 "height": 509,
-                "ratio": 1.618860510805501
+                "ratio": 1.618860510805501,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/artefacts-visuels-accidentels/soleilbloom2.jpg",
                 "width": 500,
                 "height": 333,
-                "ratio": 1.5015015015015014
+                "ratio": 1.5015015015015014,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1442,61 +1848,81 @@
                 "path": "FlorenceL/collages-surrealistes/balais.jpg",
                 "width": 194,
                 "height": 260,
-                "ratio": 0.7461538461538462
+                "ratio": 0.7461538461538462,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/callage_rue.jpg",
                 "width": 1400,
                 "height": 1400,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/collage1.jpg",
                 "width": 648,
                 "height": 681,
-                "ratio": 0.9515418502202643
+                "ratio": 0.9515418502202643,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/femme.jpg",
                 "width": 768,
                 "height": 1077,
-                "ratio": 0.713091922005571
+                "ratio": 0.713091922005571,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/map-collage.jpg",
                 "width": 600,
                 "height": 650,
-                "ratio": 0.9230769230769231
+                "ratio": 0.9230769230769231,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/nuage.png",
                 "width": 1000,
                 "height": 1000,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/planete.jpg",
                 "width": 580,
                 "height": 812,
-                "ratio": 0.7142857142857143
+                "ratio": 0.7142857142857143,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/planete2.jpg",
                 "width": 1400,
                 "height": 1400,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/poisson_homme.jpg",
                 "width": 699,
                 "height": 989,
-                "ratio": 0.7067745197168858
+                "ratio": 0.7067745197168858,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/collages-surrealistes/visage_chat.jpg",
                 "width": 1200,
                 "height": 755,
-                "ratio": 1.5894039735099337
+                "ratio": 1.5894039735099337,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1508,61 +1934,81 @@
                 "path": "FlorenceL/patterns-repetitions/arbre.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/batiment.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/brique.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/cloture.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/escalier.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/feuille.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/fleur1.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/fleur2.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/fleur3.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "FlorenceL/patterns-repetitions/marche.ori.jpeg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -1574,61 +2020,81 @@
                 "path": "FlorenceL/reportage-de-guerre/balancoire.jpg",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/char_dassaut.jpg",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/civil_fuyant.jpg",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/debris.jpg",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/explosion.png",
                 "width": 856,
                 "height": 496,
-                "ratio": 1.7258064516129032
+                "ratio": 1.7258064516129032,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/guerre.png",
                 "width": 1122,
                 "height": 742,
-                "ratio": 1.5121293800539084
+                "ratio": 1.5121293800539084,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/soldat.jpg",
                 "width": 1584,
                 "height": 891,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/soldat2.jpg",
                 "width": 612,
                 "height": 405,
-                "ratio": 1.511111111111111
+                "ratio": 1.511111111111111,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/soldat_guerre.png",
                 "width": 1050,
                 "height": 693,
-                "ratio": 1.5151515151515151
+                "ratio": 1.5151515151515151,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "FlorenceL/reportage-de-guerre/ukraine.png",
                 "width": 857,
                 "height": 496,
-                "ratio": 1.7278225806451613
+                "ratio": 1.7278225806451613,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1640,61 +2106,81 @@
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121544.jpg",
                 "width": 1079,
                 "height": 1340,
-                "ratio": 0.8052238805970149
+                "ratio": 0.8052238805970149,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121558.jpg",
                 "width": 1080,
                 "height": 1334,
-                "ratio": 0.8095952023988006
+                "ratio": 0.8095952023988006,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121609.jpg",
                 "width": 1080,
                 "height": 1363,
-                "ratio": 0.7923697725605282
+                "ratio": 0.7923697725605282,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121637.jpg",
                 "width": 1080,
                 "height": 1354,
-                "ratio": 0.7976366322008862
+                "ratio": 0.7976366322008862,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121650.jpg",
                 "width": 1080,
                 "height": 744,
-                "ratio": 1.4516129032258065
+                "ratio": 1.4516129032258065,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121734.jpg",
                 "width": 1077,
                 "height": 1198,
-                "ratio": 0.8989983305509182
+                "ratio": 0.8989983305509182,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121744.jpg",
                 "width": 1080,
                 "height": 1361,
-                "ratio": 0.7935341660543718
+                "ratio": 0.7935341660543718,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121754.jpg",
                 "width": 1080,
                 "height": 810,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121832.jpg",
                 "width": 1080,
                 "height": 1117,
-                "ratio": 0.9668755595344674
+                "ratio": 0.9668755595344674,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/portraits-culturels/IMG_20230911_121840.jpg",
                 "width": 1080,
                 "height": 1049,
-                "ratio": 1.0295519542421354
+                "ratio": 1.0295519542421354,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1706,61 +2192,81 @@
                 "path": "JeanChristopheZ/socio-numerique/317bcc47700414522d1b1260a0232819.jpg",
                 "width": 564,
                 "height": 382,
-                "ratio": 1.4764397905759161
+                "ratio": 1.4764397905759161,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/44cf2b963826d06e5cc11f149e685ac9.jpg",
                 "width": 564,
                 "height": 423,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/6a46bc18ddb5e6ce36d8dfe12d50f067.jpg",
                 "width": 331,
                 "height": 500,
-                "ratio": 0.662
+                "ratio": 0.662,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/6db41a187398ceaf30cd669d43473a21.jpg",
                 "width": 564,
                 "height": 376,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/7929990411635186d5369a9967bca53a.jpg",
                 "width": 564,
                 "height": 317,
-                "ratio": 1.779179810725552
+                "ratio": 1.779179810725552,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/84d741c9262a5dde52e17b474dd4bb12.jpg",
                 "width": 400,
                 "height": 300,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/c977a557dc03b18566c7a65deec7c044.jpg",
                 "width": 564,
                 "height": 840,
-                "ratio": 0.6714285714285714
+                "ratio": 0.6714285714285714,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/de56be8db1769ef63590c87d0528db6c.jpg",
                 "width": 564,
                 "height": 376,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/eeb991fbc257198605362706f3372c84.jpg",
                 "width": 564,
                 "height": 322,
-                "ratio": 1.7515527950310559
+                "ratio": 1.7515527950310559,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/socio-numerique/kid_ipad.png",
                 "width": 564,
                 "height": 846,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1772,61 +2278,81 @@
                 "path": "JeanChristopheZ/souvenirs/04ffe4f5af8907341e51c9ca39676bf5.jpg",
                 "width": 563,
                 "height": 495,
-                "ratio": 1.1373737373737374
+                "ratio": 1.1373737373737374,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/0c6371ed06ab4fd4b76e07f4f39bcf55.jpg",
                 "width": 432,
                 "height": 640,
-                "ratio": 0.675
+                "ratio": 0.675,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/4d07e7feb89a371527d423fa6425c500.jpg",
                 "width": 564,
                 "height": 840,
-                "ratio": 0.6714285714285714
+                "ratio": 0.6714285714285714,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/4f22292b37b9d9569e520339dbba04ae.jpg",
                 "width": 564,
                 "height": 752,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/5b5362efeba8a4cc69353c5e0f90c5dc.jpg",
                 "width": 500,
                 "height": 667,
-                "ratio": 0.7496251874062968
+                "ratio": 0.7496251874062968,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/c40356601b86da4cdd4a66874e7a9161.jpg",
                 "width": 564,
                 "height": 846,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/ded4c71a0f88d5d2a26807fdf14c550a.jpg",
                 "width": 300,
                 "height": 250,
-                "ratio": 1.2
+                "ratio": 1.2,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/e22e092ac10bac64981f54c8fdb7e956.jpg",
                 "width": 358,
                 "height": 531,
-                "ratio": 0.6741996233521658
+                "ratio": 0.6741996233521658,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/e47375edb76bc853997cc1dbb971aaef.jpg",
                 "width": 400,
                 "height": 400,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/souvenirs/f2f1cfca494e68b180260f7bf74a94f6.jpg",
                 "width": 570,
                 "height": 858,
-                "ratio": 0.6643356643356644
+                "ratio": 0.6643356643356644,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1838,61 +2364,81 @@
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0636.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0642.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0644.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0662.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0668.jpg",
                 "width": 3041,
                 "height": 4562,
-                "ratio": 0.6665935992985532
+                "ratio": 0.6665935992985532,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0684.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0701.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0758.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0764.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "JeanChristopheZ/villes-la-nuit/IMG_0767.JPG",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1924,61 +2470,81 @@
                 "path": "LauraGB/cartographie-historique/5b722188135c8d702b274fd8ffead86e--old-maps-antique-maps.jpeg",
                 "width": 736,
                 "height": 627,
-                "ratio": 1.1738437001594897
+                "ratio": 1.1738437001594897,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/71430.jpeg",
                 "width": 1600,
                 "height": 1327,
-                "ratio": 1.2057272042200453
+                "ratio": 1.2057272042200453,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/AdobeStock_18717115.jpeg",
                 "width": 3120,
                 "height": 2080,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/AdobeStock_190809510.jpeg",
                 "width": 6016,
                 "height": 3982,
-                "ratio": 1.5107985936715218
+                "ratio": 1.5107985936715218,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/AdobeStock_190810514.jpeg",
                 "width": 5489,
                 "height": 3149,
-                "ratio": 1.7430930454112417
+                "ratio": 1.7430930454112417,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/AdobeStock_227536539.jpeg",
                 "width": 4779,
                 "height": 6069,
-                "ratio": 0.7874443895205141
+                "ratio": 0.7874443895205141,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/Political_Divisions_of_the_Indian_Empire,_1909.jpeg",
                 "width": 734,
                 "height": 599,
-                "ratio": 1.2253756260434057
+                "ratio": 1.2253756260434057,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/antique-map-of-the-persian-empire-mountain-dreams.jpeg",
                 "width": 900,
                 "height": 710,
-                "ratio": 1.267605633802817
+                "ratio": 1.267605633802817,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/m09295.webp",
                 "width": 1000,
                 "height": 724,
-                "ratio": 1.3812154696132597
+                "ratio": 1.3812154696132597,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/cartographie-historique/wmark-persia_india.webp",
                 "width": 1500,
                 "height": 1272,
-                "ratio": 1.179245283018868
+                "ratio": 1.179245283018868,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -1990,61 +2556,81 @@
                 "path": "LauraGB/icones-historiques/icone_1.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_10.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_2.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_3.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_4.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_5.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_6.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_7.ori.jpg",
                 "width": 2160,
                 "height": 3840,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_8.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "LauraGB/icones-historiques/icone_9.ori.jpg",
                 "width": 2268,
                 "height": 4032,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -2056,61 +2642,81 @@
                 "path": "LauraGB/infographies/AdobeStock_120108826.jpeg",
                 "width": 3873,
                 "height": 3873,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/AdobeStock_192351281.jpeg",
                 "width": 4330,
                 "height": 3464,
-                "ratio": 1.25
+                "ratio": 1.25,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/AdobeStock_512114101.jpeg",
                 "width": 6614,
                 "height": 4724,
-                "ratio": 1.4000846740050805
+                "ratio": 1.4000846740050805,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/AdobeStock_512603110.jpeg",
                 "width": 5965,
                 "height": 5965,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/Elements-of-Design2.jpeg",
                 "width": 992,
                 "height": 620,
-                "ratio": 1.6
+                "ratio": 1.6,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/capture-decran-2019-07-03-a-10-52-29.png",
                 "width": 312,
                 "height": 680,
-                "ratio": 0.4588235294117647
+                "ratio": 0.4588235294117647,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/gravites_2015-2019_chiens.png",
                 "width": 4740,
                 "height": 2383,
-                "ratio": 1.9890893831305079
+                "ratio": 1.9890893831305079,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/infographie-nomination-7-3.jpeg",
                 "width": 610,
                 "height": 431,
-                "ratio": 1.4153132250580047
+                "ratio": 1.4153132250580047,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/inspiration-infographie-1.webp",
                 "width": 700,
                 "height": 491,
-                "ratio": 1.4256619144602851
+                "ratio": 1.4256619144602851,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/infographies/julienrio.com-infographic-2.png",
                 "width": 660,
                 "height": 427,
-                "ratio": 1.5456674473067915
+                "ratio": 1.5456674473067915,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2122,61 +2728,81 @@
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC81NjY5XC9tYWluXC96b29tXC8xNjgxODkwX2QzZTc0MzAyNmY3ZDI0ZGM0ODk2NTEwMzczMWRlZTMzLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjMwMCwiZml0IjoiaW5zaWRlIn0sInR.webp",
                 "width": 300,
                 "height": 408,
-                "ratio": 0.7352941176470589
+                "ratio": 0.7352941176470589,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC83NDExXC9tYWluXC96b29tXC8xNDU0MzYzXzQ1ZDI0NDcyNTIzNThkNjQ5NmQzOTRmNTc4YjNmNDY4LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjMwMCwiZml0IjoiaW5zaWRlIn0sInR.webp",
                 "width": 300,
                 "height": 240,
-                "ratio": 1.25
+                "ratio": 1.25,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC8xMjAzN1wvbWFpblwvem9vbVwvMTY5MjQ1MF82ZGE0NTI3NTE2MjAwZmFmYmMxMDRkMmEzMmVmMDg5MS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImZpdCI6Imluc2lkZSJ9LCJ.webp",
                 "width": 300,
                 "height": 212,
-                "ratio": 1.4150943396226414
+                "ratio": 1.4150943396226414,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC8xNjE2XC9tYWluXC96b29tXC8xNjg4NTQ2XzFhZTAyMGEwYWRhYjIxYmYzMTY0NjQ2NmM5MmJlN2EyLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjMwMCwiZml0IjoiaW5zaWRlIn0sInR.webp",
                 "width": 300,
                 "height": 298,
-                "ratio": 1.0067114093959733
+                "ratio": 1.0067114093959733,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC8xODAyM1wvbWFpblwvem9vbVwvMTY4ODgwMV8zMWRjYmNjNjk2ZWZkN2EwNzM3ZGYyMjM5Mjk5NGE5NS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImZpdCI6Imluc2lkZSJ9LCJ.webp",
                 "width": 300,
                 "height": 187,
-                "ratio": 1.6042780748663101
+                "ratio": 1.6042780748663101,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC8yNzYzM1wvbWFpblwvem9vbVwvMTY4MTY3N19mOTBjZDEzNzU0ZTk3YjhjMTdiMTMzMGVlOGQyZTIzYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImZpdCI6Imluc2lkZSJ9LCJ.webp",
                 "width": 300,
                 "height": 227,
-                "ratio": 1.3215859030837005
+                "ratio": 1.3215859030837005,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC8yOTIwM1wvbWFpblwvem9vbVwvMTU5Mjg4MF8zZmY3NzVmNzY5Njc2NzY4NmQ0YTZiODM0YzlkZjBjZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImZpdCI6Imluc2lkZSJ9LCJ.webp",
                 "width": 300,
                 "height": 301,
-                "ratio": 0.9966777408637874
+                "ratio": 0.9966777408637874,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/eyJidWNrZXQiOiJzaW5ndWxhcnQtd2Vic2l0ZS1wcm9kIiwia2V5IjoiYXJ0d29ya3NcL3YyXC9jcm9wcGVkXC8zNDcyOVwvbWFpblwvem9vbVwvMTY4MjYwN19mNmUwMzRhMTQ0OWY5NzFlM2M5ODc1MjRkYjQ3MmFkMy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozMDAsImZpdCI6Imluc2lkZSJ9LCJ.webp",
                 "width": 300,
                 "height": 455,
-                "ratio": 0.6593406593406593
+                "ratio": 0.6593406593406593,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/lot.jpeg",
                 "width": 720,
                 "height": 469,
-                "ratio": 1.535181236673774
+                "ratio": 1.535181236673774,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "LauraGB/paysages-dystopiques/paysage apocalyptique.ia.ori.jpg",
                 "width": 768,
                 "height": 1152,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -2228,61 +2854,81 @@
                 "path": "MaudeL/affiches-de-protestation/afficheE.JPG",
                 "width": 299,
                 "height": 200,
-                "ratio": 1.495
+                "ratio": 1.495,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/affiche_herlife.jpg",
                 "width": 3201,
                 "height": 3201,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/affiches.asiatiques.PNG",
                 "width": 640,
                 "height": 407,
-                "ratio": 1.5724815724815724
+                "ratio": 1.5724815724815724,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/foule.JPG",
                 "width": 620,
                 "height": 413,
-                "ratio": 1.5012106537530265
+                "ratio": 1.5012106537530265,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/freedom.JPG",
                 "width": 976,
                 "height": 653,
-                "ratio": 1.4946401225114854
+                "ratio": 1.4946401225114854,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/luther_king.jpg",
                 "width": 1140,
                 "height": 1600,
-                "ratio": 0.7125
+                "ratio": 0.7125,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/manif_stecath.ori.JPG",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/passeport_vaccin.JPG",
                 "width": 1020,
                 "height": 573,
-                "ratio": 1.780104712041885
+                "ratio": 1.780104712041885,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/tolerance.jpg",
                 "width": 1200,
                 "height": 630,
-                "ratio": 1.9047619047619047
+                "ratio": 1.9047619047619047,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/affiches-de-protestation/weneedchange.JPG",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2294,49 +2940,65 @@
                 "path": "MaudeL/foules-et-interactions/FEQ.JPG",
                 "width": 995,
                 "height": 667,
-                "ratio": 1.4917541229385307
+                "ratio": 1.4917541229385307,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/foules-et-interactions/fouki1.ori.JPG",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/foules-et-interactions/fouki2.ori.JPG",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/foules-et-interactions/foule2.jpg",
                 "width": 1280,
                 "height": 720,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/foules-et-interactions/foule3.JPG",
                 "width": 640,
                 "height": 418,
-                "ratio": 1.5311004784688995
+                "ratio": 1.5311004784688995,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/foules-et-interactions/lisbonne.ori.jpg",
                 "width": 1640,
                 "height": 2181,
-                "ratio": 0.7519486474094452
+                "ratio": 0.7519486474094452,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/foules-et-interactions/rex_orange1.ori.JPG",
                 "width": 8064,
                 "height": 5376,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/foules-et-interactions/rex_orange2.ori.JPG",
                 "width": 8064,
                 "height": 5376,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -2348,55 +3010,73 @@
                 "path": "MaudeL/metamorphose/Mabstrait.jpg",
                 "width": 626,
                 "height": 799,
-                "ratio": 0.7834793491864831
+                "ratio": 0.7834793491864831,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mart.JPG",
                 "width": 365,
                 "height": 200,
-                "ratio": 1.825
+                "ratio": 1.825,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mchimie.JPG",
                 "width": 1820,
                 "height": 948,
-                "ratio": 1.919831223628692
+                "ratio": 1.919831223628692,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mdessin.jpg",
                 "width": 1600,
                 "height": 800,
-                "ratio": 2
+                "ratio": 2,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mgrenouille.JPG",
                 "width": 1536,
                 "height": 1152,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mhumain_demon.JPG",
                 "width": 522,
                 "height": 720,
-                "ratio": 0.725
+                "ratio": 0.725,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mpapillon.JPG",
                 "width": 770,
                 "height": 480,
-                "ratio": 1.6041666666666667
+                "ratio": 1.6041666666666667,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mphotoshop.JPG",
                 "width": 1600,
                 "height": 1200,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/metamorphose/Mvisage.JPG",
                 "width": 307,
                 "height": 298,
-                "ratio": 1.0302013422818792
+                "ratio": 1.0302013422818792,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2408,49 +3088,65 @@
                 "path": "MaudeL/phenomenes-naturels/Paurore.JPG",
                 "width": 1000,
                 "height": 667,
-                "ratio": 1.4992503748125936
+                "ratio": 1.4992503748125936,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/phenomenes-naturels/Pmontagne.JPG",
                 "width": 1280,
                 "height": 720,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/phenomenes-naturels/Porage.jpg",
                 "width": 1140,
                 "height": 713,
-                "ratio": 1.5988779803646564
+                "ratio": 1.5988779803646564,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MaudeL/phenomenes-naturels/Porage2.ori.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/phenomenes-naturels/Psoleil1.ori.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/phenomenes-naturels/Psoleil2.ori.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/phenomenes-naturels/Ptanzanie.ori.JPG",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "MaudeL/phenomenes-naturels/Pvolcan.jpg",
                 "width": 1136,
                 "height": 852,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2502,115 +3198,153 @@
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-01.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-02.jpg",
                 "width": 3924,
                 "height": 2957,
-                "ratio": 1.3270206290158946
+                "ratio": 1.3270206290158946,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-03.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-04.jpg",
                 "width": 2943,
                 "height": 3924,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-05.jpg",
                 "width": 2984,
                 "height": 3979,
-                "ratio": 0.7499371701432521
+                "ratio": 0.7499371701432521,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-06.jpg",
                 "width": 2957,
                 "height": 4020,
-                "ratio": 0.7355721393034826
+                "ratio": 0.7355721393034826,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-07.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-08.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-09.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-10.jpg",
                 "width": 3010,
                 "height": 4014,
-                "ratio": 0.7498754359740907
+                "ratio": 0.7498754359740907,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-11.jpg",
                 "width": 2683,
                 "height": 4023,
-                "ratio": 0.666915237385036
+                "ratio": 0.666915237385036,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-12.jpg",
                 "width": 2992,
                 "height": 3990,
-                "ratio": 0.749874686716792
+                "ratio": 0.749874686716792,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-13.jpg",
                 "width": 3012,
                 "height": 4032,
-                "ratio": 0.7470238095238095
+                "ratio": 0.7470238095238095,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-14.jpg",
                 "width": 2961,
                 "height": 3948,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-15.jpg",
                 "width": 3959,
                 "height": 3015,
-                "ratio": 1.3131011608623548
+                "ratio": 1.3131011608623548,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-16.jpg",
                 "width": 2983,
                 "height": 3920,
-                "ratio": 0.760969387755102
+                "ratio": 0.760969387755102,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-17.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-18.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/art-de-rue-graffiti/berbiche-meryem-art-de-rue-graffiti-19.jpg",
                 "width": 2894,
                 "height": 3859,
-                "ratio": 0.7499352163772999
+                "ratio": 0.7499352163772999,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2622,61 +3356,81 @@
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-01.jpg",
                 "width": 3280,
                 "height": 4928,
-                "ratio": 0.6655844155844156
+                "ratio": 0.6655844155844156,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-02.jpg",
                 "width": 2627,
                 "height": 3940,
-                "ratio": 0.666751269035533
+                "ratio": 0.666751269035533,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-03.jpg",
                 "width": 3481,
                 "height": 2321,
-                "ratio": 1.4997845756139594
+                "ratio": 1.4997845756139594,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-04.jpg",
                 "width": 6000,
                 "height": 4000,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-05.jpg",
                 "width": 5568,
                 "height": 3712,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-06.jpg",
                 "width": 4795,
                 "height": 2763,
-                "ratio": 1.7354325009048137
+                "ratio": 1.7354325009048137,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-07.jpg",
                 "width": 2023,
                 "height": 3596,
-                "ratio": 0.5625695216907676
+                "ratio": 0.5625695216907676,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-08.jpg",
                 "width": 3826,
                 "height": 5482,
-                "ratio": 0.6979204669828529
+                "ratio": 0.6979204669828529,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-09.jpg",
                 "width": 2133,
                 "height": 3200,
-                "ratio": 0.6665625
+                "ratio": 0.6665625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/moments-decisifs/berbiche-meryem-moments-decisifs-10.jpg",
                 "width": 3365,
                 "height": 4351,
-                "ratio": 0.7733854286370949
+                "ratio": 0.7733854286370949,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2688,61 +3442,81 @@
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-01.jpg",
                 "width": 6000,
                 "height": 4000,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-02.jpg",
                 "width": 5456,
                 "height": 3064,
-                "ratio": 1.7806788511749347
+                "ratio": 1.7806788511749347,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-03.jpg",
                 "width": 4149,
                 "height": 3235,
-                "ratio": 1.2825347758887171
+                "ratio": 1.2825347758887171,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-04.jpg",
                 "width": 5932,
                 "height": 3843,
-                "ratio": 1.5435857403070519
+                "ratio": 1.5435857403070519,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-05.jpg",
                 "width": 6000,
                 "height": 4000,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-06.jpg",
                 "width": 5472,
                 "height": 3648,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-07.jpg",
                 "width": 5304,
                 "height": 7952,
-                "ratio": 0.6670020120724346
+                "ratio": 0.6670020120724346,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-08.jpg",
                 "width": 1327,
                 "height": 1059,
-                "ratio": 1.2530689329556186
+                "ratio": 1.2530689329556186,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-09.jpg",
                 "width": 4193,
                 "height": 2785,
-                "ratio": 1.5055655296229802
+                "ratio": 1.5055655296229802,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/objets-en-mouvement/berbiche-meryem-objets-en-mouvement-10.jpg",
                 "width": 4242,
                 "height": 2828,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2754,61 +3528,81 @@
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-01.jpg",
                 "width": 2844,
                 "height": 5788,
-                "ratio": 0.49136143745680716
+                "ratio": 0.49136143745680716,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-02.jpg",
                 "width": 4896,
                 "height": 3264,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-03.jpg",
                 "width": 5233,
                 "height": 3489,
-                "ratio": 1.4998566924620236
+                "ratio": 1.4998566924620236,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-04.jpg",
                 "width": 4500,
                 "height": 2973,
-                "ratio": 1.513622603430878
+                "ratio": 1.513622603430878,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-05.jpg",
                 "width": 5400,
                 "height": 3775,
-                "ratio": 1.4304635761589404
+                "ratio": 1.4304635761589404,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-06.jpg",
                 "width": 3493,
                 "height": 5239,
-                "ratio": 0.6667302920404657
+                "ratio": 0.6667302920404657,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-07.jpg",
                 "width": 4806,
                 "height": 3204,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-08.jpg",
                 "width": 5760,
                 "height": 3840,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-09.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "MeryemB/visualisation-musicale/berbiche-meryem-visualisation-musicale-10.jpg",
                 "width": 4000,
                 "height": 2857,
-                "ratio": 1.400070003500175
+                "ratio": 1.400070003500175,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2820,61 +3614,81 @@
                 "path": "NoemiL/contrastes-culturels/IMG_9075.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/IMG_9081.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/IMG_9083.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/IMG_9151.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/contraste culturel .jpeg",
                 "width": 922,
                 "height": 615,
-                "ratio": 1.4991869918699188
+                "ratio": 1.4991869918699188,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/contraste culturel 3.jpeg",
                 "width": 780,
                 "height": 460,
-                "ratio": 1.6956521739130435
+                "ratio": 1.6956521739130435,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/contraste culturel 4.jpeg",
                 "width": 800,
                 "height": 533,
-                "ratio": 1.5009380863039399
+                "ratio": 1.5009380863039399,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/contraste culturel 5.jpeg",
                 "width": 1000,
                 "height": 707,
-                "ratio": 1.4144271570014144
+                "ratio": 1.4144271570014144,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/contraste culturel 6.jpeg",
                 "width": 1090,
                 "height": 606,
-                "ratio": 1.7986798679867986
+                "ratio": 1.7986798679867986,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/contrastes-culturels/contraste culturel.jpeg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2886,55 +3700,73 @@
                 "path": "NoemiL/formes-et-motifs/IMG_9062.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/IMG_9097.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/IMG_9099.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/IMG_9127.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/forme et motif .jpeg",
                 "width": 1080,
                 "height": 1350,
-                "ratio": 0.8
+                "ratio": 0.8,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/forme et motif 4.jpeg",
                 "width": 661,
                 "height": 799,
-                "ratio": 0.8272841051314143
+                "ratio": 0.8272841051314143,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/forme et motif.jpeg",
                 "width": 386,
                 "height": 500,
-                "ratio": 0.772
+                "ratio": 0.772,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/forme et motif3.jpeg",
                 "width": 314,
                 "height": 640,
-                "ratio": 0.490625
+                "ratio": 0.490625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/formes-et-motifs/forme et motif5.jpeg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -2946,67 +3778,89 @@
                 "path": "NoemiL/innovations-technologiques/IMG_9129.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/IMG_9138.jpg",
                 "width": 3024,
                 "height": 4032,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovation techno 10.jpeg",
                 "width": 924,
                 "height": 616,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovation technologique 2.jpeg",
                 "width": 1200,
                 "height": 575,
-                "ratio": 2.0869565217391304
+                "ratio": 2.0869565217391304,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovation technologique 5.jpeg",
                 "width": 1200,
                 "height": 900,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovation technologique 6.jpeg",
                 "width": 259,
                 "height": 194,
-                "ratio": 1.3350515463917525
+                "ratio": 1.3350515463917525,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovation technologique 7.jpeg",
                 "width": 500,
                 "height": 333,
-                "ratio": 1.5015015015015014
+                "ratio": 1.5015015015015014,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovation technologique 9.jpeg",
                 "width": 2575,
                 "height": 1624,
-                "ratio": 1.5855911330049262
+                "ratio": 1.5855911330049262,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovation technologique.jpeg",
                 "width": 1280,
                 "height": 788,
-                "ratio": 1.6243654822335025
+                "ratio": 1.6243654822335025,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovations technologique 3.jpeg",
                 "width": 800,
                 "height": 533,
-                "ratio": 1.5009380863039399
+                "ratio": 1.5009380863039399,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/innovations-technologiques/innovations technologique.jpeg",
                 "width": 290,
                 "height": 174,
-                "ratio": 1.6666666666666667
+                "ratio": 1.6666666666666667,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3018,61 +3872,81 @@
                 "path": "NoemiL/photosjournalisme/ia photojoutnalisme.webp",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalism3.webp",
                 "width": 1200,
                 "height": 801,
-                "ratio": 1.4981273408239701
+                "ratio": 1.4981273408239701,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalisme 2.jpeg",
                 "width": 1080,
                 "height": 1080,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalisme 4.jpeg",
                 "width": 1080,
                 "height": 1080,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalisme 5.jpeg",
                 "width": 1080,
                 "height": 1080,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalisme 6.jpeg",
                 "width": 1080,
                 "height": 1080,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalisme 7.jpeg",
                 "width": 1080,
                 "height": 1080,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalisme 8.jpeg",
                 "width": 828,
                 "height": 558,
-                "ratio": 1.4838709677419355
+                "ratio": 1.4838709677419355,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/photojournalisme.jpeg",
                 "width": 1080,
                 "height": 1080,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "NoemiL/photosjournalisme/phtojournalisme.jpeg",
                 "width": 1024,
                 "height": 675,
-                "ratio": 1.517037037037037
+                "ratio": 1.517037037037037,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3104,61 +3978,81 @@
                 "path": "RachelP/art-abstrait/27537480863_8591a1c053_o.jpg",
                 "width": 2048,
                 "height": 1371,
-                "ratio": 1.4938001458789205
+                "ratio": 1.4938001458789205,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/32113723540_ebf9b8b067_c.jpg",
                 "width": 800,
                 "height": 653,
-                "ratio": 1.225114854517611
+                "ratio": 1.225114854517611,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/360d6226c7b65f700b92835de53b418c.jpg",
                 "width": 736,
                 "height": 1021,
-                "ratio": 0.7208619000979432
+                "ratio": 0.7208619000979432,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/5185499485_52462ef8a1_o.jpg",
                 "width": 3888,
                 "height": 2592,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/5780653009_7cc598aa98_o.jpg",
                 "width": 1538,
                 "height": 1811,
-                "ratio": 0.8492545554942021
+                "ratio": 0.8492545554942021,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/abstrait_ORI.jpg",
                 "width": 4000,
                 "height": 3000,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/abstrait_ORI2.jpg",
                 "width": 4000,
                 "height": 3000,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/abstrait_ORI3.jpg",
                 "width": 4000,
                 "height": 3000,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/basquiat.jpg",
                 "width": 873,
                 "height": 1024,
-                "ratio": 0.8525390625
+                "ratio": 0.8525390625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/art-abstrait/oxyde.jpg",
                 "width": 1000,
                 "height": 665,
-                "ratio": 1.5037593984962405
+                "ratio": 1.5037593984962405,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3170,61 +4064,81 @@
                 "path": "RachelP/mise-en-scene-des-medias/Matrix-Effet-numerique.jpg",
                 "width": 940,
                 "height": 600,
-                "ratio": 1.5666666666666667
+                "ratio": 1.5666666666666667,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/emission tele studio.png",
                 "width": 1330,
                 "height": 874,
-                "ratio": 1.5217391304347827
+                "ratio": 1.5217391304347827,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/mise en scene photographique.jpg",
                 "width": 1800,
                 "height": 1200,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/mise en scene.jpg",
                 "width": 1024,
                 "height": 550,
-                "ratio": 1.8618181818181818
+                "ratio": 1.8618181818181818,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI.jpg",
                 "width": 3946,
                 "height": 2970,
-                "ratio": 1.3286195286195286
+                "ratio": 1.3286195286195286,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI2.jpg",
                 "width": 4000,
                 "height": 3000,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI3.jpg",
                 "width": 4000,
                 "height": 3000,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI4.jpg",
                 "width": 1080,
                 "height": 1920,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/photo culinaire.webp",
                 "width": 1500,
                 "height": 1010,
-                "ratio": 1.4851485148514851
+                "ratio": 1.4851485148514851,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/mise-en-scene-des-medias/ring light.jpg",
                 "width": 700,
                 "height": 700,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3236,61 +4150,81 @@
                 "path": "RachelP/publicites-conceptuelles/31620095902_8932a6432f_o.jpg",
                 "width": 1024,
                 "height": 768,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/Telefilm.jpg",
                 "width": 1900,
                 "height": 1077,
-                "ratio": 1.7641597028783658
+                "ratio": 1.7641597028783658,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/cossette1.png",
                 "width": 1996,
                 "height": 1434,
-                "ratio": 1.3919107391910739
+                "ratio": 1.3919107391910739,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/cossette2.jpg",
                 "width": 1000,
                 "height": 400,
-                "ratio": 2.5
+                "ratio": 2.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/graphic designer.jpg",
                 "width": 736,
                 "height": 981,
-                "ratio": 0.7502548419979612
+                "ratio": 0.7502548419979612,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/lait.jpeg",
                 "width": 2123,
                 "height": 1438,
-                "ratio": 1.476356050069541
+                "ratio": 1.476356050069541,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/libere l en toi_ORI.jpg",
                 "width": 1072,
                 "height": 1500,
-                "ratio": 0.7146666666666667
+                "ratio": 0.7146666666666667,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/maxi.jpg",
                 "width": 1120,
                 "height": 630,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/pub_ORI2.jpg",
                 "width": 2160,
                 "height": 3840,
-                "ratio": 0.5625
+                "ratio": 0.5625,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/publicites-conceptuelles/simply orange.jpg",
                 "width": 600,
                 "height": 883,
-                "ratio": 0.6795016987542469
+                "ratio": 0.6795016987542469,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3302,61 +4236,81 @@
                 "path": "RachelP/schemas-explicatifs/Structure_volcan.png",
                 "width": 1621,
                 "height": 1513,
-                "ratio": 1.0713813615333774
+                "ratio": 1.0713813615333774,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/camera_ORI.jpg",
                 "width": 4000,
                 "height": 3000,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/comment se laver les mains.jpg",
                 "width": 500,
                 "height": 348,
-                "ratio": 1.4367816091954022
+                "ratio": 1.4367816091954022,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/ikea instructions.png",
                 "width": 888,
                 "height": 1236,
-                "ratio": 0.7184466019417476
+                "ratio": 0.7184466019417476,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/instruction-origami-poussin.png",
                 "width": 2485,
                 "height": 3512,
-                "ratio": 0.7075740318906606
+                "ratio": 0.7075740318906606,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/lave-vaisselle_ORI.jpg",
                 "width": 4000,
                 "height": 3000,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/photosynthèse.png",
                 "width": 1920,
                 "height": 1080,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/plan architectural.jpg",
                 "width": 1711,
                 "height": 912,
-                "ratio": 1.8760964912280702
+                "ratio": 1.8760964912280702,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/schema touchdesigner.png",
                 "width": 1920,
                 "height": 1080,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "RachelP/schemas-explicatifs/schema_introduction_finale.png",
                 "width": 781,
                 "height": 606,
-                "ratio": 1.2887788778877889
+                "ratio": 1.2887788778877889,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3388,61 +4342,81 @@
                 "path": "SantiagoB/abstraction-coloree/Automne.ori.jpg",
                 "width": 4608,
                 "height": 2592,
-                "ratio": 1.7777777777777777
+                "ratio": 1.7777777777777777,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Bugs.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Cotton_Candy.ori.jpg",
                 "width": 4916,
                 "height": 3360,
-                "ratio": 1.463095238095238
+                "ratio": 1.463095238095238,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Flags.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Graffity.ori.jpg",
                 "width": 2048,
                 "height": 1366,
-                "ratio": 1.499267935578331
+                "ratio": 1.499267935578331,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Hammaks.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Legos.ori.jpg",
                 "width": 6000,
                 "height": 4000,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Long_Exposure.ori.jpg",
                 "width": 2048,
                 "height": 1366,
-                "ratio": 1.499267935578331
+                "ratio": 1.499267935578331,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Out_of_Focus.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/abstraction-coloree/Rain.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -3454,61 +4428,81 @@
                 "path": "SantiagoB/histoires-humaines/BreackDance.ori.jpg",
                 "width": 4830,
                 "height": 3170,
-                "ratio": 1.523659305993691
+                "ratio": 1.523659305993691,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Chasse_Balcon.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Chilling.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Danser.ori.jpg",
                 "width": 4764,
                 "height": 3227,
-                "ratio": 1.4762937713046174
+                "ratio": 1.4762937713046174,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Fermeture_de_caisse.ori.jpg",
                 "width": 5028,
                 "height": 3352,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Mariage_1.ori.jpg",
                 "width": 5795,
                 "height": 3260,
-                "ratio": 1.7776073619631902
+                "ratio": 1.7776073619631902,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Mariage_2.ori.jpg",
                 "width": 3848,
                 "height": 5564,
-                "ratio": 0.6915887850467289
+                "ratio": 0.6915887850467289,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Spectacle_Urbain.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Vacances.ori.jpg",
                 "width": 4473,
                 "height": 3008,
-                "ratio": 1.487034574468085
+                "ratio": 1.487034574468085,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/histoires-humaines/Vente_de_limonade.ori.jpg",
                 "width": 4671,
                 "height": 3271,
-                "ratio": 1.4280036686028736
+                "ratio": 1.4280036686028736,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -3520,61 +4514,81 @@
                 "path": "SantiagoB/portrait-de-rue/Bonaventure.ori.jpg",
                 "width": 5028,
                 "height": 3352,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/Dancing_Queen.ori.jpg",
                 "width": 3373,
                 "height": 5059,
-                "ratio": 0.6667325558410753
+                "ratio": 0.6667325558410753,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/Fin_de_shift.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/Happy_Musician.ori.jpg",
                 "width": 3456,
                 "height": 5184,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/Manifestation.ori.jpg",
                 "width": 4000,
                 "height": 6000,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/New_Menu.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/On_the_ground.ori.jpg",
                 "width": 5184,
                 "height": 3456,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/SummerTime.ori.jpg",
                 "width": 4741,
                 "height": 3161,
-                "ratio": 1.499841822208162
+                "ratio": 1.499841822208162,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/TamTams.ori.jpg",
                 "width": 2048,
                 "height": 1366,
-                "ratio": 1.499267935578331
+                "ratio": 1.499267935578331,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "SantiagoB/portrait-de-rue/Waiting_the_bus.ori.jpg",
                 "width": 4359,
                 "height": 2912,
-                "ratio": 1.4969093406593406
+                "ratio": 1.4969093406593406,
+                "ori": true,
+                "ai": false
             }
         ]
     },
@@ -3631,61 +4645,81 @@
                 "path": "ThierryS/chronophotographie/584ea378255917.Y3JvcCwxMTUwLDkwMCw2NSww.png",
                 "width": 404,
                 "height": 316,
-                "ratio": 1.2784810126582278
+                "ratio": 1.2784810126582278,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0363.jpg",
                 "width": 1280,
                 "height": 729,
-                "ratio": 1.755829903978052
+                "ratio": 1.755829903978052,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0366.jpg",
                 "width": 600,
                 "height": 395,
-                "ratio": 1.518987341772152
+                "ratio": 1.518987341772152,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0426.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0428.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0429.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0430.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0431.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/IMG_0432.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/chronophotographie/images_2.jpeg",
                 "width": 273,
                 "height": 185,
-                "ratio": 1.4756756756756757
+                "ratio": 1.4756756756756757,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3697,61 +4731,81 @@
                 "path": "ThierryS/comparatifs-avant-apres/Before_after-kitchen.jpg",
                 "width": 1120,
                 "height": 374,
-                "ratio": 2.9946524064171123
+                "ratio": 2.9946524064171123,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/DALL·E 2023-09-17 17.23.55 - 300mm 4k create an ultra realistic in a commercial forme _ before and after renovation .png",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/bathroom-renovation.png",
                 "width": 940,
                 "height": 600,
-                "ratio": 1.5666666666666667
+                "ratio": 1.5666666666666667,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/before-after-kitchen-renovation.jpg",
                 "width": 1080,
                 "height": 1080,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/before-and-after-home-renovations-with-cost.webp",
                 "width": 1500,
                 "height": 1200,
-                "ratio": 1.25
+                "ratio": 1.25,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/images (1).jpeg",
                 "width": 260,
                 "height": 193,
-                "ratio": 1.3471502590673574
+                "ratio": 1.3471502590673574,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/istockphoto-1029457458-612x612.jpg",
                 "width": 612,
                 "height": 225,
-                "ratio": 2.72
+                "ratio": 2.72,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/istockphoto-1135908236-612x612.jpg",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/istockphoto-1155812510-612x612.jpg",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/comparatifs-avant-apres/istockphoto-1208971310-612x612.jpg",
                 "width": 612,
                 "height": 452,
-                "ratio": 1.3539823008849559
+                "ratio": 1.3539823008849559,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3763,61 +4817,81 @@
                 "path": "ThierryS/infographies-publicitaire/IMG_0433.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/IMG_0434.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/IMG_0435.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/IMG_0436.jpg",
                 "width": 4032,
                 "height": 3024,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/centre-horizon.jpg",
                 "width": 800,
                 "height": 800,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/clotures-directes.jpg",
                 "width": 800,
                 "height": 800,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/icca.jpg",
                 "width": 800,
                 "height": 800,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/mark-lachance.jpg",
                 "width": 800,
                 "height": 800,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/téléchargement (1).jpeg",
                 "width": 189,
                 "height": 267,
-                "ratio": 0.7078651685393258
+                "ratio": 0.7078651685393258,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/infographies-publicitaire/téléchargement.jpeg",
                 "width": 248,
                 "height": 204,
-                "ratio": 1.2156862745098038
+                "ratio": 1.2156862745098038,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3829,61 +4903,81 @@
                 "path": "ThierryS/nature-morte/00_citrons_dans_compotier_DSF5981.jpeg",
                 "width": 720,
                 "height": 480,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/0b5ad756-89f7-4ec5-ba25-041810a48f0d-1.jpeg",
                 "width": 1024,
                 "height": 749,
-                "ratio": 1.3671562082777036
+                "ratio": 1.3671562082777036,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/11697740_nature-morte02.jpeg",
                 "width": 720,
                 "height": 579,
-                "ratio": 1.2435233160621761
+                "ratio": 1.2435233160621761,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/1798482_377940099015948_2053077310_n.jpeg",
                 "width": 800,
                 "height": 658,
-                "ratio": 1.21580547112462
+                "ratio": 1.21580547112462,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/193857858-nature-morte-rustique-avec-citrouille-prunes-et-tournesols-secs.jpeg",
                 "width": 339,
                 "height": 450,
-                "ratio": 0.7533333333333333
+                "ratio": 0.7533333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/WladimirSchohinStilleben.jpeg",
                 "width": 954,
                 "height": 630,
-                "ratio": 1.5142857142857142
+                "ratio": 1.5142857142857142,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/cezannetableauvendu.webp",
                 "width": 1960,
                 "height": 1103,
-                "ratio": 1.7769718948322757
+                "ratio": 1.7769718948322757,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/images.jpeg",
                 "width": 264,
                 "height": 191,
-                "ratio": 1.382198952879581
+                "ratio": 1.382198952879581,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/nature-morte-hyperrealiste-wert-03-819x820.jpeg",
                 "width": 819,
                 "height": 820,
-                "ratio": 0.998780487804878
+                "ratio": 0.998780487804878,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "ThierryS/nature-morte/nature-morte-still-life-photo-lesbonsdetails-les-bons-details-2-1024x1024.jpeg",
                 "width": 1024,
                 "height": 1024,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -3935,61 +5029,81 @@
                 "path": "UgoJ/carnet-de-voyage/voyage.ori(1).jpg",
                 "width": 720,
                 "height": 960,
-                "ratio": 0.75
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.ori(2).jpg",
                 "width": 960,
                 "height": 720,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.ori(3).jpg",
                 "width": 960,
                 "height": 720,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.ori.jpg",
                 "width": 960,
                 "height": 720,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.web(1).jpg",
                 "width": 6000,
                 "height": 4000,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.web(2).jpg",
                 "width": 3401,
                 "height": 2038,
-                "ratio": 1.668792934249264
+                "ratio": 1.668792934249264,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.web(3).jpg",
                 "width": 5616,
                 "height": 3744,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.web(4).jpg",
                 "width": 8316,
                 "height": 5544,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.web(5).jpg",
                 "width": 4000,
                 "height": 6000,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/carnet-de-voyage/voyage.web.jpg",
                 "width": 4272,
                 "height": 2848,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -4001,61 +5115,81 @@
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(1).jpg",
                 "width": 728,
                 "height": 485,
-                "ratio": 1.5010309278350515
+                "ratio": 1.5010309278350515,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(1).webp",
                 "width": 333,
                 "height": 515,
-                "ratio": 0.6466019417475728
+                "ratio": 0.6466019417475728,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(2).jpg",
                 "width": 612,
                 "height": 408,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(2).webp",
                 "width": 2974,
                 "height": 2974,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(3).jpg",
                 "width": 1200,
                 "height": 800,
-                "ratio": 1.5
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(4).jpg",
                 "width": 1280,
                 "height": 1280,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(5).jpg",
                 "width": 652,
                 "height": 381,
-                "ratio": 1.711286089238845
+                "ratio": 1.711286089238845,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web(6).jpg",
                 "width": 700,
                 "height": 914,
-                "ratio": 0.7658643326039387
+                "ratio": 0.7658643326039387,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web.jpg",
                 "width": 407,
                 "height": 540,
-                "ratio": 0.7537037037037037
+                "ratio": 0.7537037037037037,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/mises-en-abyme/mise_en_abyme.web.webp",
                 "width": 460,
                 "height": 314,
-                "ratio": 1.464968152866242
+                "ratio": 1.464968152866242,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -4067,49 +5201,65 @@
                 "path": "UgoJ/objets-du-quotidien/objet.ori(1).JPG",
                 "width": 4592,
                 "height": 2584,
-                "ratio": 1.7770897832817338
+                "ratio": 1.7770897832817338,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/objets-du-quotidien/objet.ori(2).JPG",
                 "width": 4592,
                 "height": 2584,
-                "ratio": 1.7770897832817338
+                "ratio": 1.7770897832817338,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/objets-du-quotidien/objet.ori(3).JPG",
                 "width": 4592,
                 "height": 2584,
-                "ratio": 1.7770897832817338
+                "ratio": 1.7770897832817338,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/objets-du-quotidien/objet.ori(4).JPG",
                 "width": 4592,
                 "height": 2584,
-                "ratio": 1.7770897832817338
+                "ratio": 1.7770897832817338,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/objets-du-quotidien/objet.ori(5).JPG",
                 "width": 4592,
                 "height": 2584,
-                "ratio": 1.7770897832817338
+                "ratio": 1.7770897832817338,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/objets-du-quotidien/objet.ori(6).JPG",
                 "width": 4592,
                 "height": 2584,
-                "ratio": 1.7770897832817338
+                "ratio": 1.7770897832817338,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/objets-du-quotidien/objet.ori.JPG",
                 "width": 4592,
                 "height": 2584,
-                "ratio": 1.7770897832817338
+                "ratio": 1.7770897832817338,
+                "ori": true,
+                "ai": false
             },
             {
                 "path": "UgoJ/objets-du-quotidien/objet.web.jpg",
                 "width": 2973,
                 "height": 4451,
-                "ratio": 0.6679397888115031
+                "ratio": 0.6679397888115031,
+                "ori": false,
+                "ai": false
             }
         ]
     },
@@ -4121,61 +5271,81 @@
                 "path": "UgoJ/portraits-emotionnels/portrait.web(1).jpg",
                 "width": 2048,
                 "height": 1492,
-                "ratio": 1.3726541554959786
+                "ratio": 1.3726541554959786,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/portrait.web(2).jpg",
                 "width": 762,
                 "height": 762,
-                "ratio": 1
+                "ratio": 1,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/portrait.web(3).jpg",
                 "width": 3507,
                 "height": 5254,
-                "ratio": 0.6674914350970689
+                "ratio": 0.6674914350970689,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/portrait.web(4).jpg",
                 "width": 3501,
                 "height": 5251,
-                "ratio": 0.6667301466387355
+                "ratio": 0.6667301466387355,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/portrait.web(5).jpg",
                 "width": 4000,
                 "height": 5832,
-                "ratio": 0.6858710562414266
+                "ratio": 0.6858710562414266,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/portrait.web(6).jpg",
                 "width": 4608,
                 "height": 3456,
-                "ratio": 1.3333333333333333
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/portrait.web.jpg",
                 "width": 4000,
                 "height": 6000,
-                "ratio": 0.6666666666666666
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/ravi-patel-VMGAbeeJTKo-unsplash.jpg",
                 "width": 4643,
                 "height": 3095,
-                "ratio": 1.50016155088853
+                "ratio": 1.50016155088853,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/sander-weeteling-dq7Wlq_evnc-unsplash.jpg",
                 "width": 4016,
                 "height": 6016,
-                "ratio": 0.6675531914893617
+                "ratio": 0.6675531914893617,
+                "ori": false,
+                "ai": false
             },
             {
                 "path": "UgoJ/portraits-emotionnels/tadeusz-lakota-wZAQJLjDWNY-unsplash.jpg",
                 "width": 3741,
                 "height": 2806,
-                "ratio": 1.3332145402708482
+                "ratio": 1.3332145402708482,
+                "ori": false,
+                "ai": false
             }
         ]
     }

@@ -21,6 +21,14 @@ async function getImageDimensions(imagePath) {
   };
 }
 
+// Check if filename has .ori. or .ai.
+function checkImageProps(filename) {
+  return {
+    ori: filename.includes(".ori."),
+    ai: filename.includes(".ai."),
+  };
+}
+
 // Recursive function to scan images in a directory
 async function scanImages(dir) {
   const allImages = [];
@@ -60,9 +68,11 @@ async function generateConceptsJson(conceptsPath) {
           const imagesDetails = [];
           for (const imagePath of imagesPath) {
             const dimensions = await getImageDimensions(imagePath);
+            const props = checkImageProps(path.basename(imagePath)); //adding the properties Ori and AI
             imagesDetails.push({
               path: path.relative(conceptsPath, imagePath),
               ...dimensions,
+              ...props, // adding the properties Ori and AI
             });
           }
           result.push({
@@ -77,7 +87,6 @@ async function generateConceptsJson(conceptsPath) {
 
   return result;
 }
-
 // Generate and write to a JSON file
 async function updateAllConceptsData() {
   const conceptsPath = path.join(__dirname, "../concepts");

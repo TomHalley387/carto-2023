@@ -18,7 +18,14 @@
 
           <!-- Loop through the images for the project -->
           <ul>
-            <li v-for="img in project.images" :key="img.path">
+            <li
+              v-for="img in project.images"
+              :key="img.path"
+              :class="{
+                ai: img.ai,
+                ori: img.ori,
+              }"
+            >
               <img
                 :src="'/img/concepts/' + img.path + '?height=200'"
                 :alt="'Image de ' + studentName + ' - ' + project.conceptSlug"
@@ -86,6 +93,15 @@ export default {
 <style scoped>
 /* General styles */
 
+li img {
+  border: solid 3px black;
+}
+.ori img {
+  border: solid 3px white;
+}
+.ai img {
+  border: dashed 3px #ccc;
+}
 .container {
   width: 100%;
   max-width: 100%;
