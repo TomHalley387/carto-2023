@@ -3,7 +3,7 @@
     <Hero
       :title="article.title"
       :subtitle="article.subtitle"
-      :bgImage="article.image"
+      :bgImage="article.cover"
     />
     <img
       :src="article.image"
@@ -11,7 +11,14 @@
       class="article-header-image"
     />
     <h1 class="article-header-title">{{ article.title }}</h1>
-    <p class="article-author">By: {{ article.author }}</p>
+    <p class="article-author">
+      Par: loop authors with router link
+      <router-link v-for="i in article.authors" :to="'/membres/' + i">
+        {{ i }}
+      </router-link>
+
+      {{ article.author }}
+    </p>
     <p class="article-date">Published on: {{ article.date }}</p>
     <div class="article-content" v-html="article.content"></div>
   </div>
