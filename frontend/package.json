@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --emptyOutDir",
     "preview": "vite preview",
     "serveImages": "npx http-server ../concepts -p 4000",
     "dev2": "nodemon --watch src --exec \"vite build\""
