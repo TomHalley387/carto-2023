@@ -973,7 +973,68 @@
     {
         "user": "LauraGB",
         "conceptSlug": "icones-historiques",
-        "images": []
+        "images": [
+            {
+                "path": "LauraGB/icones-historiques/icone_1.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_10.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_2.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_3.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_4.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_5.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_6.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_7.ori.jpg",
+                "width": 2160,
+                "height": 3840,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_8.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            },
+            {
+                "path": "LauraGB/icones-historiques/icone_9.ori.jpg",
+                "width": 2268,
+                "height": 4032,
+                "ratio": 0.5625
+            }
+        ]
     },
     {
         "user": "LauraGB",
@@ -1100,7 +1161,7 @@
                 "ratio": 1.535181236673774
             },
             {
-                "path": "LauraGB/paysages-dystopiques/paysage apocalyptique.jpg",
+                "path": "LauraGB/paysages-dystopiques/paysage apocalyptique.ia.ori.jpg",
                 "width": 768,
                 "height": 1152,
                 "ratio": 0.6666666666666666
