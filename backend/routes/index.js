@@ -8,6 +8,12 @@ router.use(
   express.static(path.join(__dirname, "..", "..", "concepts"))
 );
 
+//articles too
+router.use(
+  "/img/articles",
+  express.static(path.join(__dirname, "..", "..", "articles"))
+);
+
 // Serve static files from the vue-dist directory
 router.use(express.static(path.join(__dirname, "..", "vue-dist")));
 
@@ -16,11 +22,11 @@ router.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "..", "vue-dist", "index.html"));
 });
 
-/* GET home page. */
+/* GET home page.
 router.get("/", function (req, res, next) {
   res.render("index", { title: "Express" });
 });
-
+ */
 //proxy the parent /concepts folder to the concepts path here.
 
 module.exports = router;

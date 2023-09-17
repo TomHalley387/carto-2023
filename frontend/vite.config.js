@@ -34,6 +34,11 @@ export default defineConfig({
         //  rewrite: (path) => path.replace(/^\/concepts/, ""),
         changeOrigin: true,
       },
+      "/img/articles/": {
+        target: apiTarget,
+        //  rewrite: (path) => path.replace(/^\/concepts/, ""),
+        changeOrigin: true,
+      },
       /*
       "/concepts/*": {
         target: apiTarget,

@@ -12,6 +12,7 @@ COPY package*.json ./
 # If you have common parts in the project root
 #COPY ./common ./common
 COPY ./concepts ./concepts
+COPY ./articles ./articles
 COPY ./data ./data
 
 # Copy your backend folder and install only the production dependencies

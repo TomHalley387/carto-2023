@@ -74,5 +74,10 @@ router.get("/articles/:slug", (req, res) => {
   // res.json(ARTCLES);
 });
 
-loadArticles();
+try {
+  loadArticles();
+} catch (e) {
+  console.log(e, "error loading articles in trycatch");
+}
+
 module.exports = router;
