@@ -1,3 +1,88 @@
+<template>
+  <div>
+    <div class="container">
+      <!-- Loop through the students -->
+      <div
+        v-for="(projects, studentName) in groupedProjects"
+        :key="studentName"
+      >
+        <!-- Display the student name in a H1 tag inside a box -->
+        <h1 style="">
+          {{ studentName }}
+        </h1>
+
+        <!-- Loop through the projects for the student -->
+        <div v-for="project in projects" :key="project.conceptSlug">
+          <!-- Display the project name in a H3 tag -->
+          <h3>{{ project.conceptSlug }}</h3>
+
+          <!-- Loop through the images for the project -->
+          <ul>
+            <li v-for="img in project.images" :key="img.path">
+              <img
+                :src="'/img/concepts/' + img.path + '?height=200'"
+                :alt="'Image de ' + studentName + ' - ' + project.conceptSlug"
+                loading="lazy"
+              />
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+<script>
+import { computed, ref, onMounted } from "vue";
+import _ from "lodash";
+
+export default {
+  props: {
+    uese: {
+      type: String,
+      required: false,
+    },
+  },
+  setup(props) {
+    // 1. Create a mutable reference for projects
+    const projects = ref([]);
+
+    // 3. Fetch data from API and update projects
+    onMounted(async () => {
+      try {
+        const response = await fetch("/api/all-concepts");
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
+        }
+        const data = await response.json();
+        projects.value = data;
+      } catch (error) {
+        console.error("There was a problem fetching the data:", error);
+      }
+    });
+
+    // Group the projects by 'uese' prop using lodash
+    const groupedProjects = computed(() => {
+      return _.chain(projects.value)
+        .groupBy("user")
+        .mapValues((userProjects) =>
+          userProjects
+            .filter((project) => project.images && project.images.length > 0)
+            .map((project) => ({
+              ...project,
+              augmentedImages: project.images.map((img) => ({
+                path: img.path,
+                ...img,
+                ratio: img.ratio || "1",
+              })),
+            }))
+        )
+        .value();
+    });
+
+    return { groupedProjects };
+  },
+};
+</script>
 <style scoped>
 /* General styles */
 
@@ -74,89 +159,3 @@ ul::-webkit-scrollbar-track {
   background-color: #eee; /* Adjust color of the track of the scrollbar */
 }
 </style>
-
-<template>
-  <div>
-    <div class="container">
-      <!-- Loop through the students -->
-      <div
-        v-for="(projects, studentName) in groupedProjects"
-        :key="studentName"
-      >
-        <!-- Display the student name in a H1 tag inside a box -->
-        <h1 style="">
-          {{ studentName }}
-        </h1>
-
-        <!-- Loop through the projects for the student -->
-        <div v-for="project in projects" :key="project.conceptSlug">
-          <!-- Display the project name in a H3 tag -->
-          <h3>{{ project.conceptSlug }}</h3>
-
-          <!-- Loop through the images for the project -->
-          <ul>
-            <li v-for="img in project.images" :key="img.path">
-              <img
-                :src="'/img/concepts/' + img.path"
-                :alt="'Image for ' + studentName + ' - ' + project.conceptSlug"
-                loading="lazy"
-              />
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</template>
-<script>
-import { computed, ref, onMounted } from "vue";
-import _ from "lodash";
-
-export default {
-  props: {
-    uese: {
-      type: String,
-      required: false,
-    },
-  },
-  setup(props) {
-    // 1. Create a mutable reference for projects
-    const projects = ref([]);
-
-    // 3. Fetch data from API and update projects
-    onMounted(async () => {
-      try {
-        const response = await fetch("/api/all-concepts");
-        if (!response.ok) {
-          throw new Error("Network response was not ok");
-        }
-        const data = await response.json();
-        projects.value = data;
-      } catch (error) {
-        console.error("There was a problem fetching the data:", error);
-      }
-    });
-
-    // Group the projects by 'uese' prop using lodash
-    const groupedProjects = computed(() => {
-      return _.chain(projects.value)
-        .groupBy("user")
-        .mapValues((userProjects) =>
-          userProjects
-            .filter((project) => project.images && project.images.length > 0)
-            .map((project) => ({
-              ...project,
-              augmentedImages: project.images.map((img) => ({
-                path: img.path,
-                ...img,
-                ratio: img.ratio || "1",
-              })),
-            }))
-        )
-        .value();
-    });
-
-    return { groupedProjects };
-  },
-};
-</script>
