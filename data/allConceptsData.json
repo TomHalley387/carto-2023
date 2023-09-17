@@ -300,22 +300,290 @@
     {
         "user": "CamilleC",
         "conceptSlug": "bokeh-creatif",
-        "images": []
+        "images": [
+            {
+                "path": "CamilleC/bokeh-creatif/HARAM.ori.jpg",
+                "width": 3584,
+                "height": 2240,
+                "ratio": 1.6
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/Sean1.jpg",
+                "width": 1792,
+                "height": 828,
+                "ratio": 2.1642512077294684
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/Sean2.jpg",
+                "width": 3584,
+                "height": 2240,
+                "ratio": 1.6
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/Sean3.jpg",
+                "width": 1792,
+                "height": 828,
+                "ratio": 2.1642512077294684
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/Sean4.ia.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/The-Grand-Budapest-Hotel-bokeh.jpg",
+                "width": 800,
+                "height": 604,
+                "ratio": 1.3245033112582782
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/Toy-Story-4-bokeh.jpg",
+                "width": 800,
+                "height": 335,
+                "ratio": 2.388059701492537
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/Translation-lost-in.jpg",
+                "width": 1024,
+                "height": 576,
+                "ratio": 1.7777777777777777
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/WPP.ori.jpg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/bokeh-orgue.ori.jpg",
+                "width": 825,
+                "height": 826,
+                "ratio": 0.9987893462469734
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/bokeh3.ia.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/bokeh4.ia.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/bokeh-creatif/bokeh5.ia.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            }
+        ]
     },
     {
         "user": "CamilleC",
         "conceptSlug": "faune-rare",
-        "images": []
+        "images": [
+            {
+                "path": "CamilleC/faune-rare/BlackRhinos.ia.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/faune-rare/MorphoHelenor.ori.jgp.jpeg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "CamilleC/faune-rare/OursPolaire4.ia.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/faune-rare/baleine-bleue.jpg",
+                "width": 1200,
+                "height": 898,
+                "ratio": 1.3363028953229399
+            },
+            {
+                "path": "CamilleC/faune-rare/cobra-royal.jpg",
+                "width": 1600,
+                "height": 900,
+                "ratio": 1.7777777777777777
+            },
+            {
+                "path": "CamilleC/faune-rare/koala.jpg",
+                "width": 1024,
+                "height": 684,
+                "ratio": 1.4970760233918128
+            },
+            {
+                "path": "CamilleC/faune-rare/monarque.jpg",
+                "width": 1728,
+                "height": 1152,
+                "ratio": 1.5
+            },
+            {
+                "path": "CamilleC/faune-rare/orang-outan.jpg",
+                "width": 600,
+                "height": 400,
+                "ratio": 1.5
+            },
+            {
+                "path": "CamilleC/faune-rare/panda-géant.jpg",
+                "width": 1280,
+                "height": 853,
+                "ratio": 1.5005861664712778
+            }
+        ]
     },
     {
         "user": "CamilleC",
         "conceptSlug": "iconographie-religieuse",
-        "images": []
+        "images": [
+            {
+                "path": "CamilleC/iconographie-religieuse/Autel1.ori.jpg",
+                "width": 1640,
+                "height": 2360,
+                "ratio": 0.6949152542372882
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/Autel2.ori.jpeg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/Croix.ori.jpg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/Jesus.ai.ori.jpg",
+                "width": 1024,
+                "height": 1024,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/JesusVitrail.jgp.png",
+                "width": 1000,
+                "height": 1588,
+                "ratio": 0.6297229219143576
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/Paganism-wicca-witchcraft1.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/Vitrail.jpg",
+                "width": 1000,
+                "height": 1600,
+                "ratio": 0.625
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/Vitrail.ori.jpg",
+                "width": 828,
+                "height": 1371,
+                "ratio": 0.6039387308533917
+            },
+            {
+                "path": "CamilleC/iconographie-religieuse/paganism-wicca-whichcraft2.ori.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333
+            }
+        ]
     },
     {
         "user": "CamilleC",
         "conceptSlug": "photographie-minimaliste",
-        "images": []
+        "images": [
+            {
+                "path": "CamilleC/photographie-minimaliste/Banksy_Balloon_Girl_London.jpg",
+                "width": 1259,
+                "height": 839,
+                "ratio": 1.500595947556615
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/IMG_0376.ori.jpg",
+                "width": 5184,
+                "height": 5184,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/IMG_0377.ori.jpg",
+                "width": 5184,
+                "height": 5184,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/IMG_0378.ori.jpg",
+                "width": 2449,
+                "height": 2449,
+                "ratio": 1
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/IMG_0379.ori.jpg",
+                "width": 5888,
+                "height": 5880,
+                "ratio": 1.0013605442176872
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/IMG_0381.ori.jpg",
+                "width": 4033,
+                "height": 4032,
+                "ratio": 1.0002480158730158
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/IMG_0384.ori.jpg",
+                "width": 1881,
+                "height": 1882,
+                "ratio": 0.9994686503719448
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/photo-minimaliste.ia.ori.jpg",
+                "width": 1024,
+                "height": 1005,
+                "ratio": 1.0189054726368159
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/photo-minimaliste1.ori.jpg",
+                "width": 3239,
+                "height": 5184,
+                "ratio": 0.6248070987654321
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/photo-minimaliste2.ori.jpg",
+                "width": 3456,
+                "height": 5184,
+                "ratio": 0.6666666666666666
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/photo-minimaliste3.ori.jpg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/photo-minimaliste5.ori.jpeg",
+                "width": 5184,
+                "height": 3456,
+                "ratio": 1.5
+            },
+            {
+                "path": "CamilleC/photographie-minimaliste/photo-montage-minimaliste.ori.jpg",
+                "width": 3000,
+                "height": 3000,
+                "ratio": 1
+            }
+        ]
     },
     {
         "user": "ClementB",
@@ -2831,22 +3099,266 @@
     {
         "user": "RachelP",
         "conceptSlug": "art-abstrait",
-        "images": []
+        "images": [
+            {
+                "path": "RachelP/art-abstrait/27537480863_8591a1c053_o.jpg",
+                "width": 2048,
+                "height": 1371,
+                "ratio": 1.4938001458789205
+            },
+            {
+                "path": "RachelP/art-abstrait/32113723540_ebf9b8b067_c.jpg",
+                "width": 800,
+                "height": 653,
+                "ratio": 1.225114854517611
+            },
+            {
+                "path": "RachelP/art-abstrait/360d6226c7b65f700b92835de53b418c.jpg",
+                "width": 736,
+                "height": 1021,
+                "ratio": 0.7208619000979432
+            },
+            {
+                "path": "RachelP/art-abstrait/5185499485_52462ef8a1_o.jpg",
+                "width": 3888,
+                "height": 2592,
+                "ratio": 1.5
+            },
+            {
+                "path": "RachelP/art-abstrait/5780653009_7cc598aa98_o.jpg",
+                "width": 1538,
+                "height": 1811,
+                "ratio": 0.8492545554942021
+            },
+            {
+                "path": "RachelP/art-abstrait/abstrait_ORI.jpg",
+                "width": 4000,
+                "height": 3000,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/art-abstrait/abstrait_ORI2.jpg",
+                "width": 4000,
+                "height": 3000,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/art-abstrait/abstrait_ORI3.jpg",
+                "width": 4000,
+                "height": 3000,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/art-abstrait/basquiat.jpg",
+                "width": 873,
+                "height": 1024,
+                "ratio": 0.8525390625
+            },
+            {
+                "path": "RachelP/art-abstrait/oxyde.jpg",
+                "width": 1000,
+                "height": 665,
+                "ratio": 1.5037593984962405
+            }
+        ]
     },
     {
         "user": "RachelP",
         "conceptSlug": "mise-en-scene-des-medias",
-        "images": []
+        "images": [
+            {
+                "path": "RachelP/mise-en-scene-des-medias/Matrix-Effet-numerique.jpg",
+                "width": 940,
+                "height": 600,
+                "ratio": 1.5666666666666667
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/emission tele studio.png",
+                "width": 1330,
+                "height": 874,
+                "ratio": 1.5217391304347827
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/mise en scene photographique.jpg",
+                "width": 1800,
+                "height": 1200,
+                "ratio": 1.5
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/mise en scene.jpg",
+                "width": 1024,
+                "height": 550,
+                "ratio": 1.8618181818181818
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI.jpg",
+                "width": 3946,
+                "height": 2970,
+                "ratio": 1.3286195286195286
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI2.jpg",
+                "width": 4000,
+                "height": 3000,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI3.jpg",
+                "width": 4000,
+                "height": 3000,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/mise en scene_ORI4.jpg",
+                "width": 1080,
+                "height": 1920,
+                "ratio": 0.5625
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/photo culinaire.webp",
+                "width": 1500,
+                "height": 1010,
+                "ratio": 1.4851485148514851
+            },
+            {
+                "path": "RachelP/mise-en-scene-des-medias/ring light.jpg",
+                "width": 700,
+                "height": 700,
+                "ratio": 1
+            }
+        ]
     },
     {
         "user": "RachelP",
         "conceptSlug": "publicites-conceptuelles",
-        "images": []
+        "images": [
+            {
+                "path": "RachelP/publicites-conceptuelles/31620095902_8932a6432f_o.jpg",
+                "width": 1024,
+                "height": 768,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/Telefilm.jpg",
+                "width": 1900,
+                "height": 1077,
+                "ratio": 1.7641597028783658
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/cossette1.png",
+                "width": 1996,
+                "height": 1434,
+                "ratio": 1.3919107391910739
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/cossette2.jpg",
+                "width": 1000,
+                "height": 400,
+                "ratio": 2.5
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/graphic designer.jpg",
+                "width": 736,
+                "height": 981,
+                "ratio": 0.7502548419979612
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/lait.jpeg",
+                "width": 2123,
+                "height": 1438,
+                "ratio": 1.476356050069541
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/libere l en toi_ORI.jpg",
+                "width": 1072,
+                "height": 1500,
+                "ratio": 0.7146666666666667
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/maxi.jpg",
+                "width": 1120,
+                "height": 630,
+                "ratio": 1.7777777777777777
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/pub_ORI2.jpg",
+                "width": 2160,
+                "height": 3840,
+                "ratio": 0.5625
+            },
+            {
+                "path": "RachelP/publicites-conceptuelles/simply orange.jpg",
+                "width": 600,
+                "height": 883,
+                "ratio": 0.6795016987542469
+            }
+        ]
     },
     {
         "user": "RachelP",
         "conceptSlug": "schemas-explicatifs",
-        "images": []
+        "images": [
+            {
+                "path": "RachelP/schemas-explicatifs/Structure_volcan.png",
+                "width": 1621,
+                "height": 1513,
+                "ratio": 1.0713813615333774
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/camera_ORI.jpg",
+                "width": 4000,
+                "height": 3000,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/comment se laver les mains.jpg",
+                "width": 500,
+                "height": 348,
+                "ratio": 1.4367816091954022
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/ikea instructions.png",
+                "width": 888,
+                "height": 1236,
+                "ratio": 0.7184466019417476
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/instruction-origami-poussin.png",
+                "width": 2485,
+                "height": 3512,
+                "ratio": 0.7075740318906606
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/lave-vaisselle_ORI.jpg",
+                "width": 4000,
+                "height": 3000,
+                "ratio": 1.3333333333333333
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/photosynthèse.png",
+                "width": 1920,
+                "height": 1080,
+                "ratio": 1.7777777777777777
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/plan architectural.jpg",
+                "width": 1711,
+                "height": 912,
+                "ratio": 1.8760964912280702
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/schema touchdesigner.png",
+                "width": 1920,
+                "height": 1080,
+                "ratio": 1.7777777777777777
+            },
+            {
+                "path": "RachelP/schemas-explicatifs/schema_introduction_finale.png",
+                "width": 781,
+                "height": 606,
+                "ratio": 1.2887788778877889
+            }
+        ]
     },
     {
         "user": "RatonG",
