@@ -11,7 +11,7 @@
     "create-folders": "node scripts/initFolders.js",
     "encodeImages": "node scripts/encodeImages.mjs",
     "updateAllConceptsData": "node scripts/updateAllConceptsData.mjs",
-    "refresh": "git pull origin main  && npm run updateAllConceptsData && npm run encodeImages && npm run commitFront && npm run push",
+    "refresh": "git pull origin main  && npm run updateAllConceptsData && npm run encodeImages && npm run commitFront && git push origin && npm run push",
     "front": "cd frontend && npm run dev",
     "back": "cd backend && npm run dev",
     "start": "cd backend && npm run start",
