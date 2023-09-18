@@ -23,9 +23,10 @@ async function getImageDimensions(imagePath) {
 
 // Check if filename has .ori. or .ai.
 function checkImageProps(filename) {
+  var f = filename.toLowerCase();
   return {
-    ori: filename.includes(".ori."),
-    ai: filename.includes(".ai."),
+    ori: f.includes(".ori."),
+    ai: f.includes(".ai."),
   };
 }
 

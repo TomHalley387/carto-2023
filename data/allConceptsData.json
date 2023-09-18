@@ -478,12 +478,126 @@
     {
         "user": "AndyB",
         "conceptSlug": "juxtapositions",
-        "images": []
+        "images": [
+            {
+                "path": "AndyB/juxtapositions/Ghibli-Locations-Blog-Thumbnail.jpg.png",
+                "width": 1892,
+                "height": 1100,
+                "ratio": 1.72,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/juxtapositions/LEBANON-10001.jpg",
+                "width": 600,
+                "height": 400,
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/juxtapositions/camel.jpg",
+                "width": 880,
+                "height": 587,
+                "ratio": 1.4991482112436116,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/juxtapositions/couloir_ori.jpg",
+                "width": 3024,
+                "height": 4032,
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/juxtapositions/porsche_ori.jpg",
+                "width": 1440,
+                "height": 1917,
+                "ratio": 0.7511737089201878,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/juxtapositions/snowman_ori.jpg",
+                "width": 3024,
+                "height": 4032,
+                "ratio": 0.75,
+                "ori": false,
+                "ai": false
+            }
+        ]
     },
     {
         "user": "AndyB",
         "conceptSlug": "reflexions-sur-l-objet",
-        "images": []
+        "images": [
+            {
+                "path": "AndyB/reflexions-sur-l-objet/1.jpg",
+                "width": 640,
+                "height": 536,
+                "ratio": 1.1940298507462686,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/reflexions-sur-l-objet/2.jpg",
+                "width": 550,
+                "height": 822,
+                "ratio": 0.6690997566909975,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/reflexions-sur-l-objet/3.jpg",
+                "width": 640,
+                "height": 480,
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/reflexions-sur-l-objet/4.jpg",
+                "width": 1000,
+                "height": 666,
+                "ratio": 1.5015015015015014,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/reflexions-sur-l-objet/5.jpg",
+                "width": 638,
+                "height": 476,
+                "ratio": 1.3403361344537814,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/reflexions-sur-l-objet/6.jpg",
+                "width": 605,
+                "height": 454,
+                "ratio": 1.3325991189427313,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/reflexions-sur-l-objet/7.webp",
+                "width": 534,
+                "height": 395,
+                "ratio": 1.3518987341772153,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "AndyB/reflexions-sur-l-objet/8.jpg",
+                "width": 750,
+                "height": 500,
+                "ratio": 1.5,
+                "ori": false,
+                "ai": false
+            }
+        ]
     },
     {
         "user": "AnthonnyL",
@@ -3619,22 +3733,338 @@
     {
         "user": "LaurenceD",
         "conceptSlug": "epoques-revolues",
-        "images": []
+        "images": [
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_01.jpg",
+                "width": 1280,
+                "height": 720,
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_02.jpg",
+                "width": 960,
+                "height": 953,
+                "ratio": 1.0073452256033577,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_03.jpg",
+                "width": 630,
+                "height": 890,
+                "ratio": 0.7078651685393258,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_04.jpg",
+                "width": 450,
+                "height": 720,
+                "ratio": 0.625,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_05.jpg",
+                "width": 1280,
+                "height": 1920,
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_06.jpg",
+                "width": 599,
+                "height": 745,
+                "ratio": 0.8040268456375839,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_07.jpg",
+                "width": 900,
+                "height": 708,
+                "ratio": 1.271186440677966,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_08.ORI.JPEG",
+                "width": 719,
+                "height": 936,
+                "ratio": 0.7681623931623932,
+                "ori": true,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/epoques-revolues/CART_ER_09.ORI.JPG",
+                "width": 3088,
+                "height": 2320,
+                "ratio": 1.3310344827586207,
+                "ori": true,
+                "ai": false
+            }
+        ]
     },
     {
         "user": "LaurenceD",
         "conceptSlug": "haute-couture",
-        "images": []
+        "images": [
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_01.jpg",
+                "width": 800,
+                "height": 1028,
+                "ratio": 0.7782101167315175,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_02.jpg",
+                "width": 201,
+                "height": 251,
+                "ratio": 0.8007968127490039,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_03.jpg",
+                "width": 1367,
+                "height": 2048,
+                "ratio": 0.66748046875,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_04.jpg",
+                "width": 1400,
+                "height": 1868,
+                "ratio": 0.7494646680942184,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_05.jpg",
+                "width": 852,
+                "height": 1280,
+                "ratio": 0.665625,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_06.jpg",
+                "width": 1701,
+                "height": 1200,
+                "ratio": 1.4175,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_07.jpg",
+                "width": 800,
+                "height": 1161,
+                "ratio": 0.6890611541774333,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_08.jpg",
+                "width": 1361,
+                "height": 2048,
+                "ratio": 0.66455078125,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_09.jpg",
+                "width": 1080,
+                "height": 1080,
+                "ratio": 1,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/haute-couture/CART_HC_10.jpg",
+                "width": 980,
+                "height": 1472,
+                "ratio": 0.6657608695652174,
+                "ori": false,
+                "ai": false
+            }
+        ]
     },
     {
         "user": "LaurenceD",
         "conceptSlug": "paysages-urbains-nocturnes",
-        "images": []
+        "images": [
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_01.ORI.png",
+                "width": 2017,
+                "height": 3196,
+                "ratio": 0.6311013767209012,
+                "ori": true,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_02.jpg",
+                "width": 682,
+                "height": 512,
+                "ratio": 1.33203125,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_03.ORI.JPG",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_04.jpg",
+                "width": 1920,
+                "height": 1080,
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_05.jpg",
+                "width": 3678,
+                "height": 2617,
+                "ratio": 1.4054260603744746,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_06.jpg",
+                "width": 500,
+                "height": 750,
+                "ratio": 0.6666666666666666,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_07.jpg",
+                "width": 1080,
+                "height": 1350,
+                "ratio": 0.8,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_08.jpg",
+                "width": 1032,
+                "height": 1032,
+                "ratio": 1,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_09.jpg",
+                "width": 1080,
+                "height": 1080,
+                "ratio": 1,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/paysages-urbains-nocturnes/CART_PUN_10.ORI.JPG",
+                "width": 4032,
+                "height": 3024,
+                "ratio": 1.3333333333333333,
+                "ori": true,
+                "ai": false
+            }
+        ]
     },
     {
         "user": "LaurenceD",
         "conceptSlug": "photos-macro",
-        "images": []
+        "images": [
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_01.ORI.jpg",
+                "width": 2992,
+                "height": 2992,
+                "ratio": 1,
+                "ori": true,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_02.jpg",
+                "width": 1920,
+                "height": 1080,
+                "ratio": 1.7777777777777777,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_03.ORI.JPEG",
+                "width": 4000,
+                "height": 1844,
+                "ratio": 2.1691973969631237,
+                "ori": true,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_04.jpg",
+                "width": 800,
+                "height": 600,
+                "ratio": 1.3333333333333333,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_05.ORI.jpg",
+                "width": 2992,
+                "height": 2992,
+                "ratio": 1,
+                "ori": true,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_06.jpg",
+                "width": 1080,
+                "height": 1079,
+                "ratio": 1.0009267840593141,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_07.jpg",
+                "width": 568,
+                "height": 462,
+                "ratio": 1.2294372294372293,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_08.jpg",
+                "width": 900,
+                "height": 900,
+                "ratio": 1,
+                "ori": false,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_09.ORI.jpg",
+                "width": 4000,
+                "height": 1844,
+                "ratio": 2.1691973969631237,
+                "ori": true,
+                "ai": false
+            },
+            {
+                "path": "LaurenceD/photos-macro/CART_PM_10.ORI.jpg",
+                "width": 4000,
+                "height": 2250,
+                "ratio": 1.7777777777777777,
+                "ori": true,
+                "ai": false
+            }
+        ]
     },
     {
         "user": "MariaB",
